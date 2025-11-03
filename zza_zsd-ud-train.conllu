@@ -1,0 +1,1574 @@
+# sent_id = Seyristane_dialogue_001A
+# text = Ya nika vinde, to ra vacî .
+# text_en = Yeah, wait now, I'll tell you.
+1	Ya	ya	INTJ	_	_	3	discourse	_	TextBegin=0|TextEnd=2
+2	nika	nika	ADV	_	_	3	advmod	_	TextBegin=3|TextEnd=7
+3	vinde	vindetene	VERB	_	Mood=Imp|Number=Sing|Person=2	7	xcomp	_	SpaceAfter=No|TextBegin=8|TextEnd=13
+4	,	,	PUNCT	_	_	3	punct	_	TextBegin=13|TextEnd=14
+5	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obl	_	TextBegin=15|TextEnd=17
+6	ra	ra	ADP	_	_	5	case	_	TextBegin=18|TextEnd=20
+7	vacî	vatene	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	0	root	_	TextBegin=21|TextEnd=25
+8	.	.	PUNCT	_	_	7	punct	_	TextBegin=21|TextEnd=25
+
+# sent_id = Seyristane_dialogue_002B
+# text = He, vaze .
+# text_en = Yes, say [it].
+1	He	he	INTJ	_	_	3	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=2
+2	,	,	PUNCT	_	_	3	punct	_	TextBegin=2|TextEnd=3
+3	vaze	vatene	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	TextBegin=4|TextEnd=8
+4	.	.	PUNCT	_	_	3	punct	_	TextBegin=4|TextEnd=8
+
+# sent_id = Seyristane_dialogue_003A
+# text = Nêçî, ma nika mi emin , mi çarê xo kuto .
+# text_en = Well, my thing now, I tattoed my forehead.
+1	Nê	Nê	PRON	_	Number=Plur|PronType=Dem	13	reparandum	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	çî	çî	PART	_	_	1	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+3	,	,	PUNCT	_	_	13	punct	_	TextBegin=4|TextEnd=5
+4	ma	ma	INTJ	_	_	13	discourse	_	TextBegin=6|TextEnd=8
+5	nika	nika	ADV	_	_	13	advmod	_	TextBegin=9|TextEnd=13
+6	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	reparandum	_	TextBegin=14|TextEnd=16
+7	emin	emin	NOUN	_	Definite=Ind|Gender=Masc	13	discourse	_	TextBegin=17|TextEnd=22
+8	,	,	PUNCT	_	_	13	punct	_	TextBegin=17|TextEnd=22
+9	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	TextBegin=23|TextEnd=25
+10-11	çarê	_	_	_	_	_	_	_	_
+10	çar	çar	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	TextBegin=26|TextEnd=30
+11	ê	ê	ADP	_	Gender=Masc|Number=Sing	10	case	_	TextBegin=26|TextEnd=30
+12	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	10	nmod:poss	_	TextBegin=31|TextEnd=33
+13	kuto	kutene	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	0	root	_	TextBegin=34|TextEnd=38
+14	.	.	PUNCT	_	_	13	punct	_	TextBegin=34|TextEnd=38
+
+# sent_id = Seyristane_dialogue_005A
+# text = Ti zana, 38 ra raver mi kuto ... tepîya .
+# text_en = You know, I tattoed before 38... after
+1	Ti	ti	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TextBegin=0|TextEnd=2
+2	zana	zanayene	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	discourse	_	SpaceAfter=No|TextBegin=3|TextEnd=7
+3	,	,	PUNCT	_	_	8	punct	_	TextBegin=7|TextEnd=8
+4	38	38	NUM	_	_	8	obl	_	TextBegin=9|TextEnd=11
+5	ra	ra	ADP	_	_	4	case	_	TextBegin=12|TextEnd=14
+6	raver	raver	ADV	_	_	8	advmod	_	TextBegin=15|TextEnd=20
+7	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	TextBegin=21|TextEnd=23
+8	kuto	kutene	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past	0	root	_	TextBegin=24|TextEnd=31
+9	...	...	PUNCT	_	_	8	punct	_	TextBegin=24|TextEnd=31
+10	tepîya	tepîya	ADV	_	_	8	advmod	_	TextBegin=32|TextEnd=38
+11	.	.	PUNCT	_	_	8	punct	_	TextBegin=32|TextEnd=38
+
+# sent_id = Seyristane_dialogue_006A
+# text = Ez 38 de amo rüyê dîna.
+# text_en = I was born in 38
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	TextBegin=0|TextEnd=2
+2	38	38	NUM	_	_	4	obl	_	TextBegin=3|TextEnd=5
+3	de	de	ADP	_	_	2	case	_	TextBegin=6|TextEnd=8
+4	amo	ameyene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	TextBegin=9|TextEnd=12
+5-6	rüyê	_	_	_	_	_	_	_	_
+5	rü	rü	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	TextBegin=13|TextEnd=17
+6	yê	ê	ADP	_	Gender=Masc|Number=Sing	5	case	_	TextBegin=13|TextEnd=17
+7	dîna	dîna	NOUN	_	Gender=Fem|Number=Sing	5	nmod:poss	_	SpaceAfter=No|TextBegin=18|TextEnd=22
+8	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No|TextBegin=18|TextEnd=22
+
+# sent_id = Seyristane_dialogue_007A
+# text = Mekteb de, ma mekteb de wandêne .
+# text_en = At school, we went to school (lit. studied in school)
+1	Mekteb	mekteb	NOUN	_	_	5	reparandum	_	TextBegin=0|TextEnd=6
+2	de	de	ADP	_	_	1	case	_	SpaceAfter=No|TextBegin=7|TextEnd=9
+3	,	,	PUNCT	_	_	1	punct	_	TextBegin=9|TextEnd=10
+4	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	TextBegin=11|TextEnd=13
+5	mekteb	mekteb	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	TextBegin=14|TextEnd=20
+6	de	de	ADP	_	_	5	case	_	TextBegin=21|TextEnd=23
+7	wandêne	wendene	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past	0	root	_	TextBegin=24|TextEnd=31
+8	.	.	PUNCT	_	_	7	punct	_	TextBegin=24|TextEnd=31
+
+# sent_id = Seyristane_dialogue_008A
+# text = Îşte ê elekçî amayî hewes kerd ma kî kut .
+# text_en = Well, these Roma (gypsies) came by. We wanted it [and] got tattooed, too.
+1	Îşte	îşte	PART	_	_	4	discourse	_	TextBegin=0|TextEnd=4
+2	ê	ê	DET	_	Number=Plur|PronType=Dem	3	det	_	TextBegin=5|TextEnd=6
+3	elekçî	elekçî	NOUN	_	Number=Plur	4	nsubj	_	TextBegin=7|TextEnd=13
+4	amayî	ameyene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	TextBegin=14|TextEnd=19
+5	hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	6	compound:lvc	_	TextBegin=20|TextEnd=25
+6	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	TextBegin=26|TextEnd=30
+7	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TextBegin=31|TextEnd=33
+8	kî	kî	ADV	_	_	7	advmod	_	TextBegin=34|TextEnd=36
+9	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	TextBegin=37|TextEnd=40
+10	.	.	PUNCT	_	_	9	punct	_	TextBegin=37|TextEnd=40
+
+# sent_id = Seyristane_dialogue_009A
+# text = ez çi zon elekçî yê kotî?
+# text_en = How should I know where the Roma are from?
+1	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TextBegin=0|TextEnd=2
+2	çi	çi	PRON	_	PronType=Int	3	obj	_	TextBegin=3|TextEnd=5
+3	zon	zanayene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	TextBegin=6|TextEnd=9
+4	elekçî	elekçî	NOUN	_	Number=Plur	5	nsubj	_	TextBegin=10|TextEnd=16
+5	yê	ê	ADP	_	_	3	ccomp	_	TextBegin=17|TextEnd=19
+6	kotî	kotî	PRON	_	PronType=Int	5	nmod:poss	_	SpaceAfter=No|TextBegin=20|TextEnd=24
+7	?	?	PUNCT	_	_	3	punct	_	TextBegin=24|TextEnd=25
+
+# sent_id = Seyristane_dialogue_010B
+# text = Mesela , to bi xo virast ya jüyê ?
+# text_en = Did you do it yourself, for example, or someone [else]...?
+1	Mesela	mesela	ADV	_	_	6	advmod	_	TextBegin=0|TextEnd=6
+2	,	,	PUNCT	_	_	6	punct	_	TextBegin=6|TextEnd=7
+3	to	ti	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	TextBegin=8|TextEnd=10
+4	bi	bi	ADP	_	_	5	case	_	TextBegin=11|TextEnd=13
+5	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	6	obl	_	TextBegin=14|TextEnd=16
+6	virast	viraştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=17|TextEnd=23
+7	ya	ya	CCONJ	_	_	8	cc	_	TextBegin=24|TextEnd=26
+8	jüyê	jüyê	PRON	_	Number=Sing|PronType=Ind	6	conj	_	_
+9	?	?	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Seyristane_dialogue_011A
+# text = Elekçî kut, elekçî.
+# text_en = The Roma did the tattoos, the Roma
+1	Elekçî	elekçî	NOUN	_	Gender=Masc	2	nsubj	_	TextBegin=0|TextEnd=6
+2	kut	kutene	VERB	_	Gender=Masc|Number=Sing|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=7|TextEnd=10
+3	,	,	PUNCT	_	_	2	punct	_	TextBegin=10|TextEnd=11
+4	elekçî	elekçî	NOUN	_	Gender=Masc	2	dislocated	_	SpaceAfter=No|TextBegin=12|TextEnd=18
+5	.	.	PUNCT	_	_	2	punct	_	TextBegin=18|TextEnd=18
+
+# sent_id = Seyristane_dialogue_012A
+# text = Hîrê tenî dercênî nîya girê dayî jubînan a .
+# text_en = They tied three needles together like this
+1	Hîrê	hîrê	NUM	_	_	3	nummod	_	TextBegin=0|TextEnd=4
+2	tenî	tene	NOUN	_	Number=Plur	3	nmod	_	TextBegin=5|TextEnd=9
+3	dercênî	dercîne	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	TextBegin=10|TextEnd=17
+4	nîya	nîya	ADV	_	_	6	advmod	_	TextBegin=18|TextEnd=22
+5	girê	girê	NOUN	_	Gender=Masc|Number=Sing	6	compound:lvc	_	TextBegin=23|TextEnd=27
+6	dayî	dayene	VERB	_	Mood=Ind|Number=Plur|Tense=Past	0	root	_	TextBegin=28|TextEnd=32
+7	jubînan	jubînî	PRON	_	Number=Plur|PronType=Rcp	6	obl	_	TextBegin=33|TextEnd=40
+8	a	ra	ADP	_	_	7	case	_	TextBegin=41|TextEnd=42
+9	.	.	PUNCT	_	_	6	punct	_	TextBegin=41|TextEnd=42
+
+# sent_id = Seyristane_dialogue_013A
+# text = Nîya kut, kut kut kut kut kut .
+# text_en = They tattooed, tattooed, tattooed like that.
+1	Nîya	nîya	ADV	_	_	2	advmod	_	TextBegin=0|TextEnd=4
+2	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=5|TextEnd=8
+3	,	,	PUNCT	_	_	2	punct	_	TextBegin=8|TextEnd=9
+4	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	TextBegin=10|TextEnd=14
+5	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	TextBegin=15|TextEnd=19
+6	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	TextBegin=20|TextEnd=24
+7	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	TextBegin=25|TextEnd=29
+8	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	TextBegin=30|TextEnd=33
+9	.	.	PUNCT	_	_	2	punct	_	TextBegin=33|TextEnd=34
+
+# sent_id = Seyristane_dialogue_014A
+# text = Gonî ci ra vete û lone kerde ci îşte .
+# text_en = They let the blood out and made a hole.
+1	Gonî	gonî	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	TextBegin=0|TextEnd=4
+2	ci	ci	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obl	_	TextBegin=5|TextEnd=7
+3	ra	ra	ADP	_	_	2	case	_	TextBegin=8|TextEnd=10
+4	vete	vetene	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=11|TextEnd=15
+5	û	û	CCONJ	_	_	7	cc	_	TextBegin=16|TextEnd=17
+6	lone	lone	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	TextBegin=18|TextEnd=22
+7	kerde	kerdene	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	TextBegin=23|TextEnd=28
+8	ci	ci	PRON	_	Person=3|PronType=Prs	7	obl	_	TextBegin=29|TextEnd=31
+9	îşte	îşte	PART	_	_	4	advmod	_	TextBegin=32|TextEnd=36
+10	.	.	PUNCT	_	_	4	punct	_	TextBegin=32|TextEnd=36
+
+# sent_id = Seyristane_dialogue_015A
+# text = Ya kî vanîm ba xo kutê .
+# text_en = Or should I say, we tattooed ourselves?
+1	Ya	ya	CCONJ	_	_	3	cc	_	TextBegin=0|TextEnd=2
+2	kî	kî	ADV	_	_	3	advmod	_	TextBegin=3|TextEnd=5
+3	vanîm	vatene	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	6	parataxis	_	TextBegin=6|TextEnd=11
+4	ba	bi	ADP	_	_	5	case	_	TextBegin=12|TextEnd=14
+5	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	6	obl	_	TextBegin=15|TextEnd=17
+6	kutê	kutene	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	TextBegin=18|TextEnd=22
+7	.	.	PUNCT	_	_	6	punct	_	TextBegin=18|TextEnd=22
+
+# sent_id = Seyristane_dialogue_016A
+# text = Ez ke van " ba xo kut " { ne olacax } ?
+# text_en = If I say “I tattooed myself,” (turk.) then what?
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TextBegin=0|TextEnd=2
+2	ke	ke	SCONJ	_	_	3	mark	_	TextBegin=3|TextEnd=5
+3	van	vatene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	TextBegin=6|TextEnd=9
+4	"	"	PUNCT	_	_	7	punct	_	TextBegin=10|TextEnd=11
+5	ba	bi	ADP	_	_	6	case	_	TextBegin=12|TextEnd=14
+6	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	7	obl	_	TextBegin=14|TextEnd=16
+7	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	ccomp	_	TextBegin=17|TextEnd=21
+8	"	"	PUNCT	_	_	7	punct	_	TextBegin=22|TextEnd=23
+9	{	{	PUNCT	_	_	10	punct	_	TextBegin=24|TextEnd=25
+10	ne	ne	X	_	Foreign=Yes	3	parataxis	_	TextBegin=26|TextEnd=28
+11	olacax	olacax	X	_	Foreign=Yes	10	flat:foreign	_	TextBegin=29|TextEnd=35
+12	}	}	PUNCT	_	_	10	punct	_	TextBegin=36|TextEnd=37
+13	?	?	PUNCT	_	_	3	punct	_	TextBegin=37|TextEnd=38
+
+# sent_id = Seyristane_dialogue_017B
+# text = Vaze .
+# text_en = Say it
+1	Vaze	vatene	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	TextBegin=0|TextEnd=4
+2	.	.	PUNCT	_	_	1	punct	_	TextBegin=0|TextEnd=4
+
+# sent_id = Seyristane_dialogue_018A
+# text = Ma nika vajî " ba xo kutê " elekçî mevajî ?
+# text_en = If I now say, “I tattooed myself,” without saying “Roma”?
+1	Ma	ma	INTJ	_	_	3	discourse	_	TextBegin=0|TextEnd=2
+2	nika	nika	ADV	_	_	3	advmod	_	TextBegin=3|TextEnd=7
+3	vajî	vatene	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	0	root	_	TextBegin=8|TextEnd=12
+4	"	"	PUNCT	_	_	7	punct	_	TextBegin=13|TextEnd=16
+5	ba	bi	ADP	_	_	6	case	_	TextBegin=13|TextEnd=16
+6	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	7	obl	_	TextBegin=17|TextEnd=19
+7	kutê	kutene	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	3	ccomp	_	TextBegin=20|TextEnd=26
+8	"	"	PUNCT	_	_	7	punct	_	TextBegin=20|TextEnd=26
+9	elekçî	elekçî	NOUN	_	Gender=Masc	10	obj	_	TextBegin=27|TextEnd=33
+10	mevajî	vatene	VERB	_	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	3	conj	_	TextBegin=34|TextEnd=41
+11	?	?	PUNCT	_	_	3	punct	_	TextBegin=34|TextEnd=41
+
+# sent_id = Seyristane_dialogue_019B
+# text = He, vaze .
+# text_en = Yeah, say it
+1	He	he	INTJ	_	_	3	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=2
+2	,	,	PUNCT	_	_	3	punct	_	TextBegin=2|TextEnd=3
+3	vaze	vatene	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	TextBegin=4|TextEnd=8
+4	.	.	PUNCT	_	_	3	punct	_	TextBegin=4|TextEnd=8
+
+# sent_id = Seyristane_dialogue_020B
+# text = Vaze vaze .
+# text_en = Say it, say it
+1	Vaze	vatene	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	TextBegin=0|TextEnd=4
+2	vaze	vatene	VERB	_	Mood=Imp|Number=Sing|Person=2	1	conj	_	TextBegin=5|TextEnd=9
+3	.	.	PUNCT	_	_	1	punct	_	TextBegin=10|TextEnd=11
+
+# sent_id = Seyristane_dialogue_021A
+# text = Hîrê tenî dercînî nîya jubîn a girê dayî .
+# text_en = [We] tied three needles together like that.
+1	Hîrê	hîrê	NUM	_	_	3	nummod	_	TextBegin=0|TextEnd=4
+2	tenî	tene	NOUN	_	Number=Plur	3	nmod	_	TextBegin=5|TextEnd=9
+3	dercînî	dercîne	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	TextBegin=10|TextEnd=17
+4	nîya	nîya	ADV	_	_	8	advmod	_	TextBegin=18|TextEnd=22
+5	jubîn	jubînî	PRON	_	Number=Sing|PronType=Rcp	8	obl	_	TextBegin=23|TextEnd=28
+6	a	ra	ADP	_	_	5	case	_	TextBegin=29|TextEnd=30
+7	girê	girê	NOUN	_	Gender=Masc|Number=Sing	8	compound:lvc	_	TextBegin=31|TextEnd=35
+8	dayî	dayene	VERB	_	Mood=Ind|Number=Plur|Tense=Past	0	root	_	TextBegin=36|TextEnd=40
+9	.	.	PUNCT	_	_	8	punct	_	TextBegin=41|TextEnd=42
+
+# sent_id = Seyristane_dialogue_022A
+# text = ba xo ayne de sê kerd, rindek nîya kutê kutê .
+# text_en = [We] looked in the mirror ourselves, tattooed so nicely.
+1	ba	bi	ADP	_	_	2	case	_	TextBegin=0|TextEnd=2
+2	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	6	obl	_	TextBegin=3|TextEnd=5
+3	ayne	ayne	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	TextBegin=6|TextEnd=10
+4	de	de	ADP	_	_	3	case	_	TextBegin=11|TextEnd=13
+5	sê	sêr	NOUN	_	Gender=Masc|Number=Sing	6	compound:lvc	_	TextBegin=14|TextEnd=16
+6	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=17|TextEnd=21
+7	,	,	PUNCT	_	_	6	punct	_	TextBegin=21|TextEnd=22
+8	rindek	rindek	ADV	_	_	10	advmod	_	TextBegin=23|TextEnd=29
+9	nîya	nîya	ADV	_	_	10	advmod	_	TextBegin=30|TextEnd=34
+10	kutê	kutene	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	6	conj	_	TextBegin=35|TextEnd=40
+11	kutê	kutene	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	10	conj	_	TextBegin=41|TextEnd=45
+12	.	.	PUNCT	_	_	6	punct	_	TextBegin=41|TextEnd=45
+
+# sent_id = Seyristane_dialogue_023A
+# text = Yanî, elekçî ke mevajî , " ba xo " vajî , se beno ?
+# text_en = So, if I say “we ourselves” instead of “Roma,” what then?
+1	Yanî	yanî	PART	_	_	14	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	14	punct	_	TextBegin=4|TextEnd=5
+3	elekçî	elekçî	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	TextBegin=6|TextEnd=12
+4	ke	ke	SCONJ	_	_	5	mark	_	TextBegin=13|TextEnd=15
+5	mevajî	vatene	VERB	_	Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	14	advcl	_	TextBegin=16|TextEnd=23
+6	,	,	PUNCT	_	_	5	punct	_	TextBegin=16|TextEnd=23
+7	"	"	PUNCT	_	_	9	punct	_	TextBegin=24|TextEnd=27
+8	ba	bi	ADP	_	_	9	case	_	TextBegin=24|TextEnd=27
+9	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	11	obj	_	TextBegin=28|TextEnd=31
+10	"	"	PUNCT	_	_	9	punct	_	TextBegin=28|TextEnd=31
+11	vajî	vatene	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	5	conj	_	TextBegin=32|TextEnd=37
+12	,	,	PUNCT	_	_	11	punct	_	TextBegin=32|TextEnd=37
+13	se	se	PRON	_	PronType=Int	14	nsubj	_	TextBegin=38|TextEnd=40
+14	beno	bîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=41|TextEnd=46
+15	?	?	PUNCT	_	_	14	punct	_	TextBegin=47|TextEnd=48
+
+# sent_id = Seyristane_dialogue_024B
+# text = Persa min a ravê na wa, yanî .
+# text_en = My first question is this, so:
+1-2	Persa	_	_	_	_	_	_	_	_
+1	Pers	pers	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	TextBegin=0|TextEnd=5
+2	a	a	ADP	_	Gender=Fem|Number=Sing	1	case	_	TextBegin=0|TextEnd=5
+3	min	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nmod:poss	_	TextBegin=6|TextEnd=9
+4	a	a	ADP	_	Gender=Fem|Number=Sing	1	case	_	TextBegin=10|TextEnd=11
+5	ravê	ravê	ADJ	_	_	1	amod	_	TextBegin=12|TextEnd=16
+6	na	na	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	TextBegin=17|TextEnd=19
+7	wa	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	SpaceAfter=No|TextBegin=20|TextEnd=22
+8	,	.	PUNCT	_	_	6	punct	_	TextBegin=22|TextEnd=23
+9	yanî	yanî	PART	_	_	6	discourse	_	TextBegin=24|TextEnd=28
+10	.	.	PUNCT	_	_	6	punct	_	TextBegin=24|TextEnd=28
+
+# sent_id = Seyristane_dialogue_025B
+# text = Namê to çik o?
+# text_en = What’s your name?
+1-2	Namê	_	_	_	_	_	_	_	_
+1	nam	name	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	TextBegin=0|TextEnd=4
+2	ê	ê	NOUN	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	nmod:poss	_	TextBegin=5|TextEnd=7
+4	çik	çi	PRON	_	PronType=Int	0	root	_	TextBegin=8|TextEnd=11
+5	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	SpaceAfter=No|TextBegin=12|TextEnd=13
+6	?	?	PUNCT	_	_	4	punct	_	TextBegin=13|TextEnd=14
+
+# sent_id = Seyristane_dialogue_026B
+# text = Ti kotî de ama dîna?
+# text_en = Where were you born?
+1	Ti	ti	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	TextBegin=0|TextEnd=2
+2	kotî	kotî	ADV	_	PronType=Int	4	obl	_	TextBegin=3|TextEnd=7
+3	de	de	ADP	_	_	2	case	_	TextBegin=8|TextEnd=10
+4	ama	ameyene	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	TextBegin=11|TextEnd=14
+5	dîna	dîna	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|TextBegin=15|TextEnd=19
+6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No|TextBegin=19|TextEnd=20
+
+# sent_id = Seyristane_dialogue_027B
+# text = Key ama dîna?
+# text_en = When were you born?
+1	Key	key	ADV	_	PronType=Int	2	advmod	_	TextBegin=0|TextEnd=3
+2	ama	ameyene	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	TextBegin=4|TextEnd=7
+3	dîna	dîna	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No|TextBegin=8|TextEnd=12
+4	?	?	PUNCT	_	_	2	punct	_	TextBegin=12|TextEnd=13
+
+# sent_id = Seyristane_dialogue_028A
+# text = 38 de amo rüyê dîna .
+# text_en = I was born in 38
+1	38	38	NUM	_	_	3	obl	_	TextBegin=0|TextEnd=2
+2	de	de	ADP	_	_	1	case	_	TextBegin=3|TextEnd=5
+3	amo	ameyene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	TextBegin=6|TextEnd=9
+4-5	rüyê	_	_	_	_	_	_	_	_
+4	rü	rü	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	TextBegin=10|TextEnd=14
+5	yê	ê	ADP	_	Gender=Masc|Number=Sing	4	case	_	TextBegin=10|TextEnd=14
+6	dîna	dîna	NOUN	_	Gender=Fem|Number=Sing	4	nmod:poss	_	TextBegin=15|TextEnd=19
+7	.	.	PUNCT	_	_	3	punct	_	TextBegin=15|TextEnd=19
+
+# sent_id = Seyristane_dialogue_029B
+# text = Namê to çik o?
+# text_en = What’s your name?
+1-2	Namê	_	_	_	_	_	_	_	_
+1	Nam	Nam	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	TextBegin=0|TextEnd=4
+2	ê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	nmod:poss	_	TextBegin=5|TextEnd=7
+4	çik	çi	PRON	_	PronType=Int	0	root	_	TextBegin=8|TextEnd=11
+5	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	SpaceAfter=No|TextBegin=12|TextEnd=13
+6	?	?	PUNCT	_	_	4	punct	_	TextBegin=13|TextEnd=14
+
+# sent_id = Seyristane_dialogue_030B
+# text = Ti kotî de ama dîna?
+# text_en = Where were you born?
+1	Ti	ti	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	TextBegin=0|TextEnd=2
+2	kotî	kotî	ADV	_	PronType=Int	4	obl	_	TextBegin=3|TextEnd=7
+3	de	de	ADP	_	_	2	case	_	TextBegin=8|TextEnd=10
+4	ama	ameyene	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	TextBegin=11|TextEnd=14
+5	dîna	dîna	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No|TextBegin=15|TextEnd=19
+6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No|TextBegin=19|TextEnd=20
+
+# sent_id = Seyristane_dialogue_031A
+# text = Namê mi Seyrîstan a.
+# text_en = My name is Seyrîstan.
+1-2	Namê	_	_	_	_	_	_	_	_
+1	Nam	name	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	TextBegin=0|TextEnd=4
+2	ê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nmod:poss	_	TextBegin=5|TextEnd=7
+4	Seyrîstan	Seyrîstan	NOUN	_	Gender=Fem|Number=Sing	0	root	_	TextBegin=8|TextEnd=17
+5	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	SpaceAfter=No|TextBegin=18|TextEnd=19
+6	.	.	PUNCT	_	_	4	punct	_	TextBegin=19|TextEnd=20
+
+# sent_id = Seyristane_dialogue_032A
+# text = 38 de ez amo rüyê dîna.
+# text_en = I was born in 38
+1	38	38	NUM	_	_	4	obl	_	TextBegin=0|TextEnd=2
+2	de	de	ADP	_	_	1	case	_	TextBegin=3|TextEnd=5
+3	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	TextBegin=6|TextEnd=8
+4	amo	ameyene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	TextBegin=9|TextEnd=12
+5-6	rüyê	_	_	_	_	_	_	_	_
+5	rü	rü	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	TextBegin=13|TextEnd=15
+6	yê	ê	ADP	_	Gender=Masc|Number=Sing	5	case	_	TextBegin=15|TextEnd=17
+7	dîna	dîna	NOUN	_	Gender=Fem|Number=Sing	5	nmod:poss	_	SpaceAfter=No|TextBegin=18|TextEnd=22
+8	.	.	PUNCT	_	_	4	punct	_	TextBegin=23|TextEnd=24
+
+# sent_id = Seyristane_dialogue_033B
+# text = Nameyo kan çik o?
+# text_en = WhatÄs the old name?
+1-2	Nameyo	_	_	_	_	_	_	_	_
+1	Name	Name	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	TextBegin=0|TextEnd=6
+2	yo	o	ADP	_	Case=Nom|Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=6
+3	kan	kan	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	TextBegin=7|TextEnd=10
+4	çik	çi	PRON	_	PronType=Int	0	root	_	TextBegin=11|TextEnd=14
+5	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	SpaceAfter=No|TextBegin=15|TextEnd=16
+6	?	?	PUNCT	_	_	4	punct	_	TextBegin=16|TextEnd=17
+
+# sent_id = Seyristane_dialogue_034B
+# text = Namê dew o kan?
+# text_en = The old village name?
+1-2	Namê	_	_	_	_	_	_	_	_
+1	Nam	name	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=0|TextEnd=4
+2	ê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	dew	dewe	NOUN	_	_	1	nmod:poss	_	TextBegin=5|TextEnd=8
+4	o	o	ADP	_	_	3	case	_	TextBegin=9|TextEnd=10
+5	kan	kan	ADJ	_	_	1	amod	_	SpaceAfter=No|TextBegin=11|TextEnd=14
+6	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No|TextBegin=14|TextEnd=15
+
+# sent_id = Seyristane_dialogue_035A
+# text = Vîyaleke .
+# text_en = Vîyaleke
+1	Vîyaleke	Vîyaleke	NOUN	_	Gender=Fem|Number=Sing	0	root	_	TextBegin=0|TextEnd=8
+2	.	.	PUNCT	_	_	1	punct	_	TextBegin=9|TextEnd=10
+
+# sent_id = Seyristane_dialogue_036A
+# text = Yanî, kirmanckî ya Vîyalek a .
+# text_en = So, in Kirmanckî it’s called Vîyaleke.
+1	Yanî	yanî	PART	_	_	5	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	5	punct	_	TextBegin=4|TextEnd=5
+3	kirmanckî	kirmanckî	NOUN	_	Gender=Fem	5	obl	_	TextBegin=6|TextEnd=15
+4	ya	a	ADP	_	_	3	case	_	TextBegin=16|TextEnd=18
+5	Vîyalek	Vîyaleke	NOUN	_	Gender=Fem	0	root	_	TextBegin=19|TextEnd=26
+6	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	TextBegin=27|TextEnd=28
+7	.	.	PUNCT	_	_	5	punct	_	TextBegin=28|TextEnd=29
+
+# sent_id = Seyristane_dialogue_037A
+# text = E, îta de zewejîyo .
+# text_en = Yes, I got married here
+1	E	e	INTJ	_	_	5	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=1
+2	,	,	PUNCT	_	_	5	punct	_	TextBegin=1|TextEnd=2
+3	îta	îta	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	TextBegin=3|TextEnd=6
+4	de	de	ADP	_	_	3	case	_	TextBegin=7|TextEnd=9
+5	zewejîyo	zewejîyayene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	TextBegin=10|TextEnd=18
+6	.	.	PUNCT	_	_	5	punct	_	TextBegin=18|TextEnd=19
+
+# sent_id = Seyristane_dialogue_038A
+# text = Îta de zewejîyo, îta .
+# text_en = I got married here, right here
+1	Îta	îta	NOUN	_	Gender=Masc	3	obl	_	TextBegin=0|TextEnd=3
+2	de	de	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
+3	zewejîyo	zewejîyayene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=7|TextEnd=15
+4	,	,	PUNCT	_	Gender=Masc	3	dislocated	_	TextBegin=17|TextEnd=20
+5	.	.	PUNCT	_	_	3	punct	_	TextBegin=17|TextEnd=20
+
+# sent_id = Seyristane_dialogue_039B
+# text = Oyo ke çarê to de, to key virast ?
+# text_en = That thing on your forehead,when did you do it?
+1-2	Oyo	_	_	_	_	_	_	_	_
+1	O	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	11	obj	_	TextBegin=0|TextEnd=3
+2	yo	o	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=1|TextEnd=3
+3	ke	ke	SCONJ	_	_	1	mark	_	TextBegin=4|TextEnd=6
+4-5	çarê	_	_	_	_	_	_	_	_
+4	çar	çar	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	TextBegin=7|TextEnd=10
+5	ê	ê	ADP	_	Gender=Masc|Number=Sing	4	case	_	TextBegin=11|TextEnd=12
+6	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	TextBegin=12|TextEnd=14
+7	de	de	ADP	_	_	4	obl	_	SpaceAfter=No|TextBegin=15|TextEnd=17
+8	,	,	PUNCT	_	_	11	punct	_	TextBegin=17|TextEnd=18
+9	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	TextBegin=19|TextEnd=21
+10	key	key	ADV	_	PronType=Int	11	advmod	_	TextBegin=22|TextEnd=25
+11	virast	viraştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=26|TextEnd=33
+12	?	?	PUNCT	_	_	11	punct	_	TextBegin=34|TextEnd=35
+
+# sent_id = Seyristane_dialogue_040B
+# text = Kamî ra musa?
+# text_en = Who did you learn it from?
+1	Kamî	kam	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	3	obl	_	TextBegin=0|TextEnd=4
+2	ra	ra	ADP	_	_	1	case	_	TextBegin=5|TextEnd=7
+3	musa	musayene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=8|TextEnd=12
+4	?	?	PUNCT	_	_	3	punct	_	TextBegin=12|TextEnd=13
+
+# sent_id = Seyristane_dialogue_041B
+# text = Kamî musna sima?
+# text_en = Who taught you (pl.)?
+1	Kamî	kam	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	TextBegin=0|TextEnd=4
+2	musna	musnayene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=5|TextEnd=10
+3	sima	sima	PRON	_	Number=Plur|Person=2|PronType=Prs	2	iobj	_	SpaceAfter=No|TextBegin=11|TextEnd=15
+4	?	?	PUNCT	_	_	2	punct	_	TextBegin=15|TextEnd=16
+
+# sent_id = Seyristane_dialogue_042A
+# text = Elekçîyo .
+# text_en = The Roma
+1	Elekçîyo	elekçî	NOUN	_	Case=Acc|Number=Plur	0	root	_	TextBegin=0|TextEnd=8
+2	.	.	PUNCT	_	_	1	punct	_	TextBegin=9|TextEnd=10
+
+# sent_id = Seyristane_dialogue_043A
+# text = Elekçîyo çîyê dîyêne arê .
+# text_en = The Roma were collecting something.
+1	Elekçîyo	elekçî	NOUN	_	Case=Acc|Number=Plur	3	nsubj	_	TextBegin=0|TextEnd=8
+2	çîyê	çî	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	TextBegin=9|TextEnd=13
+3	dîyêne	dayene	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past	0	root	_	TextBegin=14|TextEnd=20
+4	arê	arê	PART	_	_	3	compound:prt	_	TextBegin=21|TextEnd=24
+5	.	.	PUNCT	_	_	3	punct	_	TextBegin=25|TextEnd=26
+
+# sent_id = Seyristane_dialogue_044A
+# text = Yardim xo rê dêne arê .
+# text_en = They collected donations (for themselves)
+1	Yardim	yardim	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	TextBegin=0|TextEnd=6
+2	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	4	obl	_	TextBegin=7|TextEnd=9
+3	rê	rê	ADP	_	_	2	case	_	TextBegin=10|TextEnd=12
+4	dêne	dayene	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past	0	root	_	TextBegin=13|TextEnd=17
+5	arê	arê	PART	_	_	4	compound:prt	_	TextBegin=18|TextEnd=21
+6	.	.	PUNCT	_	_	4	punct	_	TextBegin=22|TextEnd=23
+
+# sent_id = Seyristane_dialogue_045A
+# text = Amayî dewa ma .
+# text_en = They came to our village
+1	Amayî	ameyene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	TextBegin=0|TextEnd=5
+2-3	dewa	_	_	_	_	_	_	_	_
+2	dew	dewe	NOUN	_	Gender=Fem	1	obl	_	TextBegin=6|TextEnd=10
+3	a	a	ADP	_	Gender=Fem	2	case	_	TextBegin=6|TextEnd=10
+4	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	TextBegin=11|TextEnd=13
+5	.	.	PUNCT	_	_	1	punct	_	TextBegin=13|TextEnd=14
+
+# sent_id = Seyristane_dialogue_046A
+# text = Îne ra musayîme .
+# text_en = We learned it from them
+1	Îne	înû	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obl	_	TextBegin=0|TextEnd=3
+2	ra	ra	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
+3	musayîme	musayene	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	TextBegin=7|TextEnd=15
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Seyristane_dialogue_047A
+# text = Îne kî çarê xo kutêne .
+# text_en = They had also tattooed their foreheads
+1	Îne	înû	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	TextBegin=0|TextEnd=3
+2	kî	kî	ADV	_	_	6	advmod	_	TextBegin=4|TextEnd=6
+3-4	çarê	_	_	_	_	_	_	_	_
+3	çar	çare	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	TextBegin=7|TextEnd=11
+4	ê	ê	ADP	_	Gender=Masc|Number=Sing	3	case	_	TextBegin=7|TextEnd=11
+5	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	3	nmod:poss	_	TextBegin=12|TextEnd=14
+6	kutêne	kutene	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past	0	root	_	TextBegin=15|TextEnd=21
+7	.	.	PUNCT	_	_	6	punct	_	TextBegin=22|TextEnd=23
+
+# sent_id = Seyristane_dialogue_048B
+# text = Virastena xo senîn a?
+# text_en = How is it done? (lit. How is its making)
+1-2	Virastena	_	_	_	_	_	_	_	_
+1	Virasten	viraştene	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	TextBegin=0|TextEnd=9
+2	a	a	ADP	_	Gender=Fem|Number=Sing	1	case	_	TextBegin=0|TextEnd=9
+3	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	1	nmod:poss	_	TextBegin=10|TextEnd=12
+4	senîn	senîn	ADV	_	PronType=Int	0	root	_	TextBegin=13|TextEnd=18
+5	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	SpaceAfter=No|TextBegin=19|TextEnd=20
+6	?	?	PUNCT	_	_	4	punct	_	TextBegin=20|TextEnd=21
+
+# sent_id = Seyristane_dialogue_049A
+# text = Virastena xo kî îşte, hîrê tene dercîna nîya jubîn ra girê danê .
+# text_en = Well, how it’s made (lit. its making): three needles are tied together like this.
+1-2	Virastena	_	_	_	_	_	_	_	_
+1	Virasten	viraştene	NOUN	_	Gender=Fem|Number=Sing	14	parataxis	_	TextBegin=0|TextEnd=9
+2	a	a	ADP	_	Gender=Fem|Number=Sing	1	case	_	TextBegin=0|TextEnd=9
+3	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	1	nmod:poss	_	TextBegin=10|TextEnd=12
+4	kî	kî	ADV	_	_	1	advmod	_	TextBegin=13|TextEnd=15
+5	îşte	îşte	PART	_	_	1	discourse	_	SpaceAfter=No|TextBegin=16|TextEnd=20
+6	,	,	PUNCT	_	_	14	punct	_	TextBegin=20|TextEnd=21
+7	hîrê	hîrê	NUM	_	NumType=Card	8	nummod	_	TextBegin=22|TextEnd=26
+8	tene	tene	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	TextBegin=27|TextEnd=31
+9	dercîna	dercîne	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	TextBegin=32|TextEnd=39
+10	nîya	nîya	ADV	_	_	14	advmod	_	TextBegin=40|TextEnd=44
+11	jubîn	jubînî	PRON	_	PronType=Rcp	14	obl	_	TextBegin=45|TextEnd=50
+12	ra	ra	ADP	_	_	11	case	_	TextBegin=51|TextEnd=53
+13	girê	girê	NOUN	_	Gender=Masc|Number=Sing	14	compound:lvc	_	TextBegin=54|TextEnd=58
+14	danê	dayene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=59|TextEnd=63
+15	.	.	PUNCT	_	_	14	punct	_	TextBegin=64|TextEnd=65
+
+# sent_id = Seyristane_dialogue_050A
+# text = Danê piro , danê piro , danê piro danê piro .
+# text_en = They tap it, tap it, tap it, tap it
+1	Danê	dayene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=0|TextEnd=4
+2-3	piro	_	_	_	_	_	_	_	_
+2	pi	pi	PRON	_	Case=Acc|Person=3|PronType=Prs	1	obj	_	TextBegin=5|TextEnd=9
+3	ro	ro	ADP	_	_	1	compound:prt	_	TextBegin=5|TextEnd=9
+4	,	,	PUNCT	_	_	1	punct	_	TextBegin=9|TextEnd=10
+5	danê	dayene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	conj	_	TextBegin=11|TextEnd=15
+6-7	piro	_	_	_	_	_	_	_	_
+6	pi	pi	PRON	_	Case=Acc|Person=3|PronType=Prs	5	obj	_	TextBegin=16|TextEnd=20
+7	ro	ro	ADP	_	_	5	compound:prt	_	TextBegin=16|TextEnd=20
+8	,	,	PUNCT	_	_	5	punct	_	TextBegin=20|TextEnd=21
+9	danê	dayene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	conj	_	TextBegin=22|TextEnd=26
+10-11	piro	_	_	_	_	_	_	_	_
+10	pi	pi	PRON	_	Case=Acc|Person=3|PronType=Prs	9	obj	_	TextBegin=27|TextEnd=32
+11	ro	ro	ADP	_	_	9	compound:prt	_	TextBegin=27|TextEnd=32
+12	danê	dayene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	conj	_	TextBegin=33|TextEnd=37
+13-14	piro	_	_	_	_	_	_	_	_
+13	pi	pi	PRON	_	Case=Acc|Person=3|PronType=Prs	12	obj	_	TextBegin=38|TextEnd=42
+14	ro	ro	ADP	_	_	12	compound:prt	_	TextBegin=38|TextEnd=42
+15	.	.	PUNCT	_	_	12	punct	_	TextBegin=43|TextEnd=44
+
+# sent_id = Seyristane_dialogue_051A
+# text = gonî vecîna .
+# text_en = Blood comes out
+1	gonî	gonî	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	TextBegin=0|TextEnd=4
+2	vecîna	vejîyayene	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=5|TextEnd=11
+3	.	.	PUNCT	_	_	2	punct	_	TextBegin=12|TextEnd=13
+
+# sent_id = Seyristane_dialogue_053A
+# text = Bî ke wes, beno kewe .
+# text_en = When it heals, it turns blue
+1	Bî	bîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	5	advcl	_	TextBegin=0|TextEnd=2
+2	ke	ke	SCONJ	_	_	1	mark	_	TextBegin=3|TextEnd=5
+3	wes	wes	ADJ	_	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No|TextBegin=6|TextEnd=9
+4	,	,	PUNCT	_	_	5	punct	_	TextBegin=9|TextEnd=10
+5	beno	bîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=11|TextEnd=15
+6	kewe	kewe	ADJ	_	Gender=Masc|Number=Sing	5	xcomp	_	TextBegin=16|TextEnd=20
+7	.	.	PUNCT	_	_	5	punct	_	TextBegin=21|TextEnd=22
+
+# sent_id = Seyristane_dialogue_054B
+# text = Çi kenê mabênê ey ?
+# text_en = What do they put in it?
+1	Çi	çi	PRON	_	PronType=Int	2	obj	_	TextBegin=0|TextEnd=2
+2	kenê	kerdene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=3|TextEnd=7
+3-4	mabênê	_	_	_	_	_	_	_	_
+3	mabên	mabên	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	TextBegin=8|TextEnd=12
+4	ê	ê	ADP	_	Gender=Masc|Number=Sing	3	case	_	TextBegin=13|TextEnd=14
+5	ey	ey	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	TextBegin=15|TextEnd=17
+6	?	?	PUNCT	_	_	2	punct	_	TextBegin=17|TextEnd=18
+
+# sent_id = Seyristane_dialogue_055A
+# text = Qe tebayî ci nêkenê .
+# text_en = They don’t put anything in
+1	Qe	qet	ADV	_	PronType=Ind	2	advmod	_	TextBegin=0|TextEnd=2
+2	tebayî	teba	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	TextBegin=3|TextEnd=9
+3	ci	ci	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obl	_	TextBegin=10|TextEnd=12
+4	nêkenê	kerdene	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	TextBegin=13|TextEnd=19
+5	.	.	PUNCT	_	_	4	punct	_	TextBegin=13|TextEnd=19
+
+# sent_id = Seyristane_dialogue_056A
+# text = Îşte o emin .
+# text_en = Just that stuff
+1	Îşte	îşte	PART	_	_	3	discourse	_	TextBegin=0|TextEnd=4
+2	o	o	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	TextBegin=5|TextEnd=6
+3	emin	emin	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=7|TextEnd=11
+4	.	.	PUNCT	_	_	3	punct	_	TextBegin=12|TextEnd=13
+
+# sent_id = Seyristane_dialogue_057B
+# text = Yanî vas ?
+# text_en = Like plants?
+1	Yanî	yanî	PART	_	_	2	discourse	_	TextBegin=0|TextEnd=4
+2	vas	vas	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=6|TextEnd=10
+3	?	?	PUNCT	_	_	2	punct	_	TextBegin=6|TextEnd=10
+
+# sent_id = Seyristane_dialogue_058A
+# text = Nê, o komir , ok , hanî paçik vêsneme ya .
+# text_en = No, charcoal, that thing, we burn the cloth
+1	Nê	nê	INTJ	_	_	10	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=2
+2	,	,	PUNCT	_	_	10	punct	_	TextBegin=2|TextEnd=3
+3	o	o	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	TextBegin=4|TextEnd=5
+4	komir	komir	NOUN	_	Gender=Masc|Number=Sing	10	dislocated	_	TextBegin=6|TextEnd=12
+5	,	,	PUNCT	_	_	10	punct	_	TextBegin=6|TextEnd=12
+6	ok	ewk	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	dislocated	_	TextBegin=13|TextEnd=16
+7	,	,	PUNCT	_	_	10	punct	_	TextBegin=13|TextEnd=16
+8	hanî	hanî	PART	_	_	10	discourse	_	TextBegin=17|TextEnd=21
+9	paçik	paçik	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	TextBegin=22|TextEnd=27
+10	vêsneme	vêsnayene	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	TextBegin=28|TextEnd=35
+11	ya	ya	PART	_	_	10	discourse	_	TextBegin=36|TextEnd=38
+12	.	.	PUNCT	_	_	10	punct	_	TextBegin=36|TextEnd=38
+
+# sent_id = Seyristane_dialogue_059A
+# text = Hanî paçik vêsneme ya .
+# text_en = Well, we burn cloth
+1	Hanî	hanî	PART	_	_	3	discourse	_	TextBegin=0|TextEnd=4
+2	paçik	paçik	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	TextBegin=5|TextEnd=10
+3	vêsneme	vêsnayene	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	TextBegin=11|TextEnd=18
+4	ya	ya	PART	_	_	3	discourse	_	TextBegin=19|TextEnd=21
+5	.	.	PUNCT	_	_	3	punct	_	TextBegin=19|TextEnd=21
+
+# sent_id = Seyristane_dialogue_060B
+# text = Zanê ma vaze tu .
+# text_en = Say it in our language
+1-2	Zanê	_	_	_	_	_	_	_	_
+1	Zan	Zan	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	TextBegin=0|TextEnd=4
+2	ê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	1	nmod:poss	_	TextBegin=5|TextEnd=7
+4	vaze	vatene	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	TextBegin=8|TextEnd=12
+5	tu	ti	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	TextBegin=13|TextEnd=15
+6	.	.	PUNCT	_	_	4	punct	_	TextBegin=16|TextEnd=17
+
+# sent_id = Seyristane_dialogue_061A
+# text = Kilê, mekteb de bîm .
+# text_en = Sister, we were at school
+1	Kilê	kilê	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	3	punct	_	TextBegin=4|TextEnd=5
+3	mekteb	mekteb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=6|TextEnd=12
+4	de	de	ADP	_	_	3	case	_	TextBegin=13|TextEnd=15
+5	bîm	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	3	cop	_	TextBegin=16|TextEnd=19
+6	.	.	PUNCT	_	_	3	punct	_	TextBegin=20|TextEnd=21
+
+# sent_id = Seyristane_dialogue_062A
+# text = Xora, 14 sarrênî de zewecîyo .
+# text_en = I got married when I was just 14
+1	Xora	xora	ADV	_	_	6	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	6	punct	_	TextBegin=4|TextEnd=5
+3	14	14	NUM	_	_	4	nummod	_	TextBegin=6|TextEnd=8
+4	sarrênî	sarrênî	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	TextBegin=9|TextEnd=16
+5	de	de	ADP	_	_	4	case	_	TextBegin=17|TextEnd=19
+6	zewecîyo	zewecîyayene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	TextBegin=20|TextEnd=28
+7	.	.	PUNCT	_	_	6	punct	_	TextBegin=29|TextEnd=30
+
+# sent_id = Seyristane_dialogue_063A
+# text = Mekteb de .
+# text_en = At school
+1	Mekteb	mekteb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=0|TextEnd=6
+2	de	de	ADP	_	_	1	case	_	TextBegin=7|TextEnd=9
+3	.	.	PUNCT	_	_	1	punct	_	TextBegin=10|TextEnd=11
+
+# sent_id = Seyristane_dialogue_064B
+# text = Yanî, vas mas nêkerdêne mabên ?
+# text_en = So, they didn’t put in any plants or anything like that?
+1	Yanî	yanî	PART	_	_	5	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	5	punct	_	TextBegin=4|TextEnd=5
+3	vas	vas	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	TextBegin=6|TextEnd=9
+4	mas	mas	NOUN	_	_	3	compound:redup	_	TextBegin=10|TextEnd=13
+5	nêkerdêne	kerdene	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	TextBegin=14|TextEnd=23
+6	mabên	mabên	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	TextBegin=24|TextEnd=29
+7	?	?	PUNCT	_	_	5	punct	_	TextBegin=30|TextEnd=31
+
+# sent_id = Seyristane_dialogue_065A
+# text = Vasmas çîn o .
+# text_en = No, there are no plants or anything
+1	Vas	vas	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No|TextBegin=0|TextEnd=3
+2	mas	mas	NOUN	_	_	1	compound:redup	_	TextBegin=3|TextEnd=7
+3	çîn	çîn	VERB	_	Polarity=Neg	0	root	_	TextBegin=8|TextEnd=11
+4	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	TextBegin=12|TextEnd=13
+5	.	.	PUNCT	_	_	3	punct	_	TextBegin=14|TextEnd=15
+
+# sent_id = Seyristane_dialogue_066A
+# text = No paç o .
+# text_en = This is (a piece of) cloth
+1	No	no	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	TextBegin=0|TextEnd=2
+2	paç	paç	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=3|TextEnd=6
+3	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	TextBegin=7|TextEnd=8
+4	.	.	PUNCT	_	_	2	punct	_	TextBegin=9|TextEnd=10
+
+# sent_id = Seyristane_dialogue_067A
+# text = Ha no paçik ma vêsna .
+# text_en = So, we burned a piece of cloth (like that)
+1	Ha	ha	INTJ	_	_	5	discourse	_	TextBegin=0|TextEnd=2
+2	no	no	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	TextBegin=3|TextEnd=5
+3	paçik	paçik	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	TextBegin=6|TextEnd=11
+4	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TextBegin=12|TextEnd=14
+5	vêsna	vêsnayene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=15|TextEnd=20
+6	.	.	PUNCT	_	_	5	punct	_	TextBegin=21|TextEnd=22
+
+# sent_id = Seyristane_dialogue_068A
+# text = Nîya ma gurit pê vêsa ke şî dey ra .
+# text_en = We held it like that until it came/fell off
+1	Nîya	nîya	ADV	_	_	3	advmod	_	TextBegin=0|TextEnd=4
+2	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TextBegin=5|TextEnd=7
+3	gurit	guretene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=8|TextEnd=13
+4	pê	pê	ADP	_	_	3	compound:prt	_	TextBegin=14|TextEnd=16
+5	vêsa	vêsayene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	TextBegin=17|TextEnd=21
+6	ke	ke	SCONJ	_	_	7	mark	_	TextBegin=22|TextEnd=24
+7	şî	şîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	advcl	_	TextBegin=25|TextEnd=27
+8	dey	ey	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	TextBegin=28|TextEnd=31
+9	ra	ra	ADP	_	_	8	case	_	TextBegin=32|TextEnd=34
+10	.	.	PUNCT	_	_	3	punct	_	TextBegin=35|TextEnd=36
+
+# sent_id = Seyristane_dialogue_069A
+# text = Herdê ma .
+# text_en = On our floor
+1-2	Herdê	_	_	_	_	_	_	_	_
+1	Herd	herd	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=0|TextEnd=5
+2	ê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=5
+3	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	1	nmod:poss	_	TextBegin=6|TextEnd=8
+4	.	.	PUNCT	_	_	1	punct	_	TextBegin=9|TextEnd=10
+
+# sent_id = Seyristane_dialogue_070A
+# text = Ma gurut pê .
+# text_en = we held it
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TextBegin=0|TextEnd=2
+2	gurut	guretene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=3|TextEnd=8
+3	pê	pê	ADP	_	_	2	compound:prt	_	TextBegin=9|TextEnd=11
+4	.	.	PUNCT	_	_	2	punct	_	TextBegin=9|TextEnd=11
+
+# sent_id = Seyristane_dialogue_071A
+# text = lüt ra, lüt ra .
+# text_en = We kneaded it, kneaded it
+1	lüt	lütene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=0|TextEnd=3
+2	ra	ra	ADP	_	_	1	compound:prt	_	SpaceAfter=No|TextBegin=4|TextEnd=6
+3	,	,	PUNCT	_	_	4	punct	_	TextBegin=6|TextEnd=7
+4	lüt	lütene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	TextBegin=8|TextEnd=11
+5	ra	ra	ADP	_	_	4	compound:prt	_	TextBegin=12|TextEnd=14
+6	.	.	PUNCT	_	_	1	punct	_	TextBegin=15|TextEnd=16
+
+# sent_id = Seyristane_dialogue_072B
+# text = Sit nêkerdêne mabên?
+# text_en = They didn’t mix in milk?
+1	Sit	sit	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	TextBegin=0|TextEnd=3
+2	nêkerdêne	kerdene	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	TextBegin=4|TextEnd=13
+3	mabên	mabên	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No|TextBegin=14|TextEnd=19
+4	?	?	PUNCT	_	_	2	punct	_	TextBegin=19|TextEnd=20
+
+# sent_id = Seyristane_dialogue_073A
+# text = O paç o jü .
+# text_en = It’s just that cloth
+1	O	o	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TextBegin=0|TextEnd=1
+2	paç	paç	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=2|TextEnd=5
+3	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	TextBegin=6|TextEnd=7
+4	jü	ju	ADV	_	_	2	advmod	_	TextBegin=8|TextEnd=10
+5	.	.	PUNCT	_	_	2	punct	_	TextBegin=11|TextEnd=12
+
+# sent_id = Seyristane_dialogue_074B
+# text = To ça virast?
+# text_en = Why did you do it?
+1	To	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TextBegin=0|TextEnd=2
+2	ça	çayê	ADV	_	PronType=Int	3	advmod	_	TextBegin=3|TextEnd=5
+3	virast	viraştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=6|TextEnd=12
+4	?	?	PUNCT	_	_	3	punct	_	TextBegin=12|TextEnd=13
+
+# sent_id = Seyristane_dialogue_075A
+# text = Ma hewes kerd xo rê .
+# text_en = We desired it.
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TextBegin=0|TextEnd=2
+2	hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	3	compound:lvc	_	TextBegin=3|TextEnd=8
+3	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=9|TextEnd=13
+4	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	3	obl	_	TextBegin=14|TextEnd=16
+5	rê	rê	ADP	_	_	4	case	_	TextBegin=17|TextEnd=19
+6	.	.	PUNCT	_	_	3	punct	_	TextBegin=20|TextEnd=21
+
+# sent_id = Seyristane_dialogue_076B
+# text = Hewes?
+# text_en = Desire?
+1	Hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|TextBegin=0|TextEnd=5
+2	?	?	PUNCT	_	_	1	punct	_	TextBegin=5|TextEnd=6
+
+# sent_id = Seyristane_dialogue_077A
+# text = Heya, doman bîme mekteb de .
+# text_en = Yes, we were children, in school.
+1	Heya	heya	INTJ	_	_	4	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	4	punct	_	TextBegin=4|TextEnd=5
+3	doman	doman	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	TextBegin=6|TextEnd=11
+4	bîme	bîyene	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	TextBegin=12|TextEnd=17
+5	mekteb	mekteb	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	TextBegin=18|TextEnd=24
+6	de	de	ADP	_	_	5	case	_	TextBegin=25|TextEnd=27
+7	.	.	PUNCT	_	_	4	punct	_	TextBegin=28|TextEnd=29
+
+# sent_id = Seyristane_dialogue_078A
+# text = Elekçî amayî...
+# text_en = The Roma came
+1	Elekçî	elekçî	NOUN	_	Number=Plur	2	nsubj	_	TextBegin=0|TextEnd=6
+2	amayî	ameyene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=7|TextEnd=12
+3	...	...	PUNCT	_	_	2	punct	_	TextBegin=12|TextEnd=15
+
+# sent_id = Seyristane_dialogue_079A
+# text = çarê xo kut, ma kî ci ra hewes kerd .
+# text_en = [They] tattooed their foreheads, we desired it as well
+1-2	çarê	_	_	_	_	_	_	_	_
+1	çar	çare	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	TextBegin=0|TextEnd=4
+2	ê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	1	nmod:poss	_	TextBegin=5|TextEnd=7
+4	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=8|TextEnd=11
+5	,	,	PUNCT	_	_	4	punct	_	TextBegin=11|TextEnd=12
+6	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	11	nsubj	_	TextBegin=13|TextEnd=15
+7	kî	kî	ADV	_	_	6	advmod	_	TextBegin=16|TextEnd=18
+8	ci	ci	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	obl	_	TextBegin=19|TextEnd=21
+9	ra	ra	ADP	_	_	8	case	_	TextBegin=22|TextEnd=24
+10	hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	11	compound:lvc	_	TextBegin=25|TextEnd=30
+11	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	TextBegin=31|TextEnd=35
+12	.	.	PUNCT	_	_	4	punct	_	TextBegin=36|TextEnd=37
+
+# sent_id = Seyristane_dialogue_080B
+# text = Çêyê sima de, to ra berz keşî ?
+# text_en = Someone older than you in your family?
+1-2	Çêyê	_	_	_	_	_	_	_	_
+1	Çê	çê	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	TextBegin=0|TextEnd=4
+2	yê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	sima	sima	PRON	_	Number=Plur|Person=2|PronType=Prs	1	nmod:poss	_	TextBegin=5|TextEnd=9
+4	de	de	ADP	_	_	1	case	_	SpaceAfter=No|TextBegin=10|TextEnd=12
+5	,	,	PUNCT	_	_	9	punct	_	TextBegin=12|TextEnd=13
+6	to	to	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	9	obl	_	TextBegin=14|TextEnd=16
+7	ra	ra	ADP	_	_	6	case	_	TextBegin=17|TextEnd=19
+8	berz	berz	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	TextBegin=20|TextEnd=24
+9	keşî	kes	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	TextBegin=25|TextEnd=30
+10	?	?	PUNCT	_	_	9	punct	_	TextBegin=31|TextEnd=32
+
+# sent_id = Seyristane_dialogue_081B
+# text = Teyna to de?
+# text_en = Only you?
+1	Teyna	teyna	ADV	_	_	2	advmod	_	TextBegin=0|TextEnd=5
+2	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	0	root	_	TextBegin=6|TextEnd=8
+3	de	de	ADP	_	_	2	case	_	SpaceAfter=No|TextBegin=9|TextEnd=11
+4	?	?	PUNCT	_	_	2	punct	_	TextBegin=11|TextEnd=12
+
+# sent_id = Seyristane_dialogue_082A
+# text = Ma pîyê xo ra di tenî domanî bîme .
+# text_en = My father had two children (lit. We were two childrem of my father)
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TextBegin=0|TextEnd=2
+2-3	pîyê	_	_	_	_	_	_	_	_
+2	pî	pî	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	TextBegin=3|TextEnd=5
+3	yê	ê	ADP	_	Gender=Masc|Number=Sing	2	case	_	TextBegin=5|TextEnd=7
+4	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	2	nmod:poss	_	TextBegin=8|TextEnd=10
+5	ra	ra	ADP	_	_	2	case	_	TextBegin=11|TextEnd=13
+6	di	di	NUM	_	NumType=Card	7	nummod	_	TextBegin=14|TextEnd=16
+7	tenî	tene	NOUN	_	Number=Plur	8	nmod	_	TextBegin=17|TextEnd=21
+8	domanî	doman	NOUN	_	Case=Nom|Number=Plur	9	xcomp	_	TextBegin=22|TextEnd=28
+9	bîme	bîyene	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	TextBegin=29|TextEnd=33
+10	.	.	PUNCT	_	_	9	punct	_	TextBegin=34|TextEnd=35
+
+# sent_id = Seyristane_dialogue_083A
+# text = Di tenî çêneyî .
+# text_en = Two daughters
+1	Di	di	NUM	_	NumType=Card	2	nummod	_	TextBegin=0|TextEnd=2
+2	tenî	tene	NOUN	_	Number=Plur	3	nmod	_	TextBegin=3|TextEnd=7
+3	çêneyî	çêna	NOUN	_	Gender=Fem|Number=Plur	0	root	_	TextBegin=8|TextEnd=14
+4	.	.	PUNCT	_	_	3	punct	_	TextBegin=15|TextEnd=16
+
+# sent_id = Seyristane_dialogue_084B
+# text = Yanî, to ke virast mesela , çi kut zerê to ?
+# text_en = So when you did it, what did you feel, for example?
+1	Yanî	yanî	PART	_	_	5	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	1	punct	_	TextBegin=4|TextEnd=5
+3	to	to	PRON	_	Case=Acc|Number=Sing|Person=2	5	nsubj	_	TextBegin=6|TextEnd=8
+4	ke	ke	SCONJ	_	_	5	mark	_	TextBegin=9|TextEnd=11
+5	virast	ke	VERB	_	_	9	advcl	_	TextBegin=12|TextEnd=18
+6	mesela	mesela	ADV	_	_	5	advmod	_	TextBegin=19|TextEnd=26
+7	,	,	PUNCT	_	_	9	punct	_	TextBegin=19|TextEnd=26
+8	çi	çi	PRON	_	PronType=Int	9	nsubj	_	TextBegin=27|TextEnd=29
+9	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=30|TextEnd=33
+10-11	zerê	_	_	_	_	_	_	_	_
+10	zer	zere	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	TextBegin=34|TextEnd=38
+11	ê	ê	ADP	_	Gender=Masc|Number=Sing	10	case	_	TextBegin=34|TextEnd=38
+12	to	to	PRON	_	Case=Acc|Number=Sing|Person=2	10	nmod:poss	_	TextBegin=39|TextEnd=42
+13	?	?	PUNCT	_	_	9	punct	_	TextBegin=43|TextEnd=44
+
+# sent_id = Seyristane_dialogue_085A
+# text = Çêf o .
+# text_en = [It is] joy
+1	Çêf	çêf	NOUN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=0|TextEnd=3
+2	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	TextBegin=4|TextEnd=5
+3	.	.	PUNCT	_	_	1	punct	_	TextBegin=6|TextEnd=7
+
+# sent_id = Seyristane_dialogue_086A
+# text = Hewes kerd ke çarê xo kuto .
+# text_en = I was happy to tattoo my forehead
+1	Hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	2	compound:lvc	_	TextBegin=0|TextEnd=5
+2	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=6|TextEnd=10
+3	ke	ke	SCONJ	_	_	7	mark	_	TextBegin=11|TextEnd=13
+4-5	çarê	_	_	_	_	_	_	_	_
+4	çar	çare	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	TextBegin=14|TextEnd=18
+5	ê	ê	ADP	_	Gender=Masc|Number=Sing	4	case	_	TextBegin=14|TextEnd=18
+6	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	4	nmod:poss	_	TextBegin=19|TextEnd=21
+7	kuto	kutene	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	ccomp	_	TextBegin=22|TextEnd=26
+8	.	.	PUNCT	_	_	2	punct	_	TextBegin=27|TextEnd=28
+
+# sent_id = Seyristane_dialogue_087B
+# text = Çêna to est a?
+# text_en = Do you have a daughter?
+1	Çêna	çêna	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	TextBegin=0|TextEnd=4
+2	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	nmod:poss	_	TextBegin=5|TextEnd=7
+3	est	est	VERB	_	VerbForm=Fin	0	root	_	TextBegin=8|TextEnd=11
+4	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	SpaceAfter=No|TextBegin=12|TextEnd=13
+5	?	?	PUNCT	_	_	3	punct	_	TextBegin=13|TextEnd=14
+
+# sent_id = Seyristane_dialogue_088A
+# text = Çêna Ovacix de cayê emin...
+# text_en = The daughter is in Ovacix, in that place...
+1	Çêna	çêna	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	TextBegin=0|TextEnd=4
+2	Ovacix	Ovacix	PROPN	_	Gender=Masc|Number=Sing	0	root	_	TextBegin=5|TextEnd=11
+3	de	de	ADP	_	_	2	case	_	TextBegin=12|TextEnd=14
+4-5	cayê	_	_	_	_	_	_	_	_
+4	ca	ca	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	TextBegin=15|TextEnd=19
+5	yê	ê	ADP	_	Gender=Masc|Number=Sing	4	case	_	TextBegin=15|TextEnd=19
+6	emin	emin	NOUN	_	Gender=Masc|Number=Sing	4	nmod:poss	_	SpaceAfter=No|TextBegin=20|TextEnd=24
+7	...	...	PUNCT	_	_	2	punct	_	TextBegin=24|TextEnd=27
+
+# sent_id = Seyristane_dialogue_089B
+# text = Îno de çîn o?
+# text_en = They don’t have [one]?
+1	Îno	înû	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obl	_	TextBegin=0|TextEnd=3
+2	de	de	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
+3	çîn	çîn	VERB	_	Polarity=Neg	0	root	_	TextBegin=7|TextEnd=10
+4	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	SpaceAfter=No|TextBegin=11|TextEnd=12
+5	?	?	PUNCT	_	_	3	punct	_	TextBegin=12|TextEnd=13
+
+# sent_id = Seyristane_dialogue_090A
+# text = Înan de çîn o .
+# text_en = They don’t have [one]
+1	Înan	înû	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obl	_	TextBegin=0|TextEnd=4
+2	de	de	ADP	_	_	1	case	_	TextBegin=5|TextEnd=7
+3	çîn	çîn	VERB	_	Polarity=Neg	0	root	_	TextBegin=8|TextEnd=11
+4	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	TextBegin=12|TextEnd=13
+5	.	.	PUNCT	_	_	3	punct	_	TextBegin=14|TextEnd=15
+
+# sent_id = Seyristane_dialogue_091A
+# text = Jü ma de .
+# text_en = Just (with) us
+1	Jü	ju	ADV	_	_	2	advmod	_	TextBegin=0|TextEnd=2
+2	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	0	root	_	TextBegin=3|TextEnd=5
+3	de	de	ADP	_	_	2	case	_	TextBegin=6|TextEnd=8
+4	.	.	PUNCT	_	_	2	punct	_	TextBegin=9|TextEnd=10
+
+# sent_id = Seyristane_dialogue_092A
+# text = Na çêneka ma na verê pird ê emin de gurîna .
+# text_en = Our girl works over there, before that bridge in that place
+1	Na	na	DET	_	Gender=Fem|Number=Sing	2	det	_	TextBegin=0|TextEnd=2
+2-3	çêneka	_	_	_	_	_	_	_	_
+2	çênek	çêneke	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	TextBegin=3|TextEnd=9
+3	a	a	ADP	_	Gender=Fem|Number=Sing	2	case	_	TextBegin=3|TextEnd=9
+4	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	TextBegin=10|TextEnd=12
+5	na	na	DET	_	Gender=Fem|Number=Sing	6	det	_	TextBegin=13|TextEnd=15
+6-7	verê	_	_	_	_	_	_	_	_
+6	ver	ver	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	TextBegin=16|TextEnd=20
+7	ê	ê	ADP	_	Gender=Masc|Number=Sing	6	case	_	TextBegin=16|TextEnd=20
+8	pird	pird	NOUN	_	Gender=Masc|Number=Sing	6	nmod:poss	_	TextBegin=21|TextEnd=26
+9	ê	ê	ADP	_	Gender=Masc|Number=Sing	8	case	_	TextBegin=21|TextEnd=26
+10	emin	emin	NOUN	_	Gender=Masc|Number=Sing	8	nmod:poss	_	TextBegin=27|TextEnd=31
+11	de	de	ADP	_	_	6	case	_	TextBegin=32|TextEnd=34
+12	gurîna	gurîyayene	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=35|TextEnd=41
+13	.	.	PUNCT	_	_	12	punct	_	TextBegin=42|TextEnd=43
+
+# sent_id = Seyristane_dialogue_093A
+# text = Zewecîya, di tenî domanê xo est ê .
+# text_en = She got married, has two children
+1	Zewecîya	zewecîyayene	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=0|TextEnd=8
+2	,	,	PUNCT	_	_	1	punct	_	TextBegin=8|TextEnd=9
+3	di	di	NUM	_	NumType=Card	4	nummod	_	TextBegin=10|TextEnd=12
+4	tenî	tene	NOUN	_	Number=Plur	5	nmod	_	TextBegin=13|TextEnd=17
+5-6	domanê	_	_	_	_	_	_	_	_
+5	doman	doman	NOUN	_	Number=Plur	8	obj	_	TextBegin=18|TextEnd=24
+6	ê	ê	ADP	_	Number=Plur	5	case	_	TextBegin=18|TextEnd=24
+7	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	5	nmod:poss	_	TextBegin=25|TextEnd=27
+8	est	est	VERB	_	VerbForm=Fin	1	conj	_	TextBegin=28|TextEnd=31
+9	ê	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	aux	_	TextBegin=32|TextEnd=33
+10	.	.	PUNCT	_	_	1	punct	_	TextBegin=34|TextEnd=35
+
+# sent_id = Seyristane_dialogue_094A
+# text = Kotî ra çêneke bikuyê?
+# text_en = Where should the girl get a tattoo?
+1	Kotî	kotî	PRON	_	PronType=Int	4	obl	_	TextBegin=0|TextEnd=4
+2	ra	ra	ADP	_	_	1	case	_	TextBegin=5|TextEnd=7
+3	çêneke	çêneke	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	TextBegin=8|TextEnd=14
+4	bikuyê	kutene	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No|TextBegin=15|TextEnd=21
+5	?	?	PUNCT	_	_	4	punct	_	TextBegin=21|TextEnd=22
+
+# sent_id = Seyristane_dialogue_095B
+# text = Cînî çayê virazenê çîyê nîyanênî?
+# text_en = Why do women do such things?
+1	Cînî	cînî	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	TextBegin=0|TextEnd=4
+2	çayê	çayê	ADV	_	PronType=Int	3	advmod	_	TextBegin=5|TextEnd=9
+3	virazenê	viraştene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=10|TextEnd=18
+4-5	çîyê	_	_	_	_	_	_	_	_
+4	çî	çî	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	TextBegin=19|TextEnd=23
+5	yê	ê	ADP	_	Number=Plur	4	case	_	TextBegin=19|TextEnd=23
+6	nîyanênî	nîyanên	ADJ	_	Number=Plur	4	amod	_	SpaceAfter=No|TextBegin=24|TextEnd=32
+7	?	?	PUNCT	_	_	3	punct	_	TextBegin=32|TextEnd=33
+
+# sent_id = Seyristane_dialogue_096A
+# text = Hewes kenê .
+# text_en = They want / desire it.
+1	Hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	2	compound:lvc	_	TextBegin=0|TextEnd=5
+2	kenê	kerdene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=6|TextEnd=10
+3	.	.	PUNCT	_	_	2	punct	_	TextBegin=11|TextEnd=12
+
+# sent_id = Seyristane_dialogue_097B
+# text = Ju manê xo est o?
+# text_en = Does it have a meaning?
+1	Ju	ju	NUM	_	NumType=Card	2	nummod	_	TextBegin=0|TextEnd=2
+2-3	manê	_	_	_	_	_	_	_	_
+2	man	mana	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	TextBegin=3|TextEnd=7
+3	ê	ê	ADP	_	Gender=Masc|Number=Sing	2	case	_	TextBegin=3|TextEnd=7
+4	xo	xo	PRON	_	PronType=Prs	2	nmod:poss	_	TextBegin=8|TextEnd=10
+5	est	est	VERB	_	VerbForm=Fin	0	root	_	TextBegin=11|TextEnd=14
+6	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No|TextBegin=15|TextEnd=16
+7	?	?	PUNCT	_	_	5	punct	_	TextBegin=16|TextEnd=17
+
+# sent_id = Seyristane_dialogue_098B
+# text = Yanî, mesela ge-gane însan kuno raye .
+# text_en = Well, for example, sometimes one embarks on the (religious) path
+1	Yanî	yanî	PART	_	_	6	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	6	punct	_	TextBegin=4|TextEnd=5
+3	mesela	mesela	ADV	_	_	6	advmod	_	TextBegin=6|TextEnd=12
+4	ge-gane	ge-gane	ADV	_	_	6	advmod	_	TextBegin=13|TextEnd=20
+5	însan	însan	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	TextBegin=21|TextEnd=26
+6	kuno	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=27|TextEnd=31
+7	raye	raye	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	TextBegin=32|TextEnd=36
+8	.	.	PUNCT	_	_	6	punct	_	TextBegin=37|TextEnd=38
+
+# sent_id = Seyristane_dialogue_099B
+# text = Vano ke îşte îta resimê Alî dano pi ro .
+# text_en = And let’s say they put (tattoo) Ali’s image on it
+1	Vano	vatene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=0|TextEnd=4
+2	ke	ke	SCONJ	_	_	8	mark	_	TextBegin=5|TextEnd=7
+3	îşte	îşte	PART	_	_	8	discourse	_	TextBegin=8|TextEnd=12
+4	îta	îta	ADV	_	_	8	advmod	_	TextBegin=13|TextEnd=16
+5-6	resimê	_	_	_	_	_	_	_	_
+5	resim	resim	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	TextBegin=17|TextEnd=23
+6	ê	ê	ADP	_	_	5	case	_	TextBegin=17|TextEnd=23
+7	Alî	Alî	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod:poss	_	TextBegin=24|TextEnd=27
+8	dano	dayene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	xcomp	_	TextBegin=28|TextEnd=32
+9	pi	pi	PRON	_	Person=3	8	compound:prt	_	TextBegin=33|TextEnd=37
+10	ro	ro	ADP	_	_	9	case	_	TextBegin=33|TextEnd=37
+11	.	.	PUNCT	_	_	1	punct	_	TextBegin=38|TextEnd=39
+
+# sent_id = Seyristane_dialogue_0100B
+# text = ya kî tembure .
+# text_en = Or a tembûr
+1	ya	ya	CCONJ	_	_	3	cc	_	TextBegin=0|TextEnd=2
+2	kî	kî	ADV	_	_	3	advmod	_	TextBegin=3|TextEnd=5
+3	tembure	tembure	NOUN	_	Gender=Fem|Number=Sing	0	root	_	TextBegin=6|TextEnd=13
+4	.	.	PUNCT	_	_	3	punct	_	TextBegin=14|TextEnd=15
+
+# sent_id = Seyristane_dialogue_0101B
+# text = Seba Raya Heqî ser sono .
+# text_en = For the Raya Heqî (Righteous Path, i.e. Alevism)
+1	Seba	seba	ADP	_	_	2	case	_	TextBegin=0|TextEnd=4
+2-3	Raya	_	_	_	_	_	_	_	_
+2	Ray	raye	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	TextBegin=5|TextEnd=9
+3	a	a	ADP	_	Gender=Fem|Number=Sing	2	case	_	TextBegin=5|TextEnd=9
+4	Heqî	Heq	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod:poss	_	TextBegin=10|TextEnd=14
+5	ser	ser	ADP	_	_	6	obl	_	TextBegin=15|TextEnd=18
+6	sono	şîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=19|TextEnd=23
+7	.	.	PUNCT	_	_	6	punct	_	TextBegin=24|TextEnd=25
+
+# sent_id = Seyristane_dialogue_0102B
+# text = Yanî sima de çik bî, mesela no ?
+# text_en = So did you have something like that?
+1	Yanî	yanî	PART	_	_	4	discourse	_	TextBegin=0|TextEnd=4
+2	sima	sima	PRON	_	Number=Plur|Person=2|PronType=Prs	4	obl	_	TextBegin=5|TextEnd=9
+3	de	de	ADP	_	_	2	case	_	TextBegin=10|TextEnd=12
+4	çik	çi	PRON	_	PronType=Int	0	root	_	TextBegin=13|TextEnd=16
+5	bî	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	SpaceAfter=No|TextBegin=17|TextEnd=19
+6	,	,	PUNCT	_	_	4	punct	_	TextBegin=19|TextEnd=20
+7	mesela	mesela	ADV	_	_	4	advmod	_	TextBegin=21|TextEnd=27
+8	no	no	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	TextBegin=28|TextEnd=31
+9	?	?	PUNCT	_	_	4	punct	_	TextBegin=32|TextEnd=33
+
+# sent_id = Seyristane_dialogue_0103A
+# text = Ma yildiz hewa ra est ê .
+# text_en = There are stars in the sky, right?
+1	Ma	ma	INTJ	_	_	5	discourse	_	TextBegin=0|TextEnd=2
+2	yildiz	yildiz	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	5	nsubj	_	TextBegin=3|TextEnd=9
+3	hewa	hewa	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	TextBegin=10|TextEnd=14
+4	ra	ra	ADP	_	_	3	case	_	TextBegin=15|TextEnd=17
+5	est	est	VERB	_	VerbForm=Fin	0	root	_	TextBegin=18|TextEnd=21
+6	ê	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	TextBegin=22|TextEnd=23
+7	.	.	PUNCT	_	_	5	punct	_	TextBegin=24|TextEnd=25
+
+# sent_id = Seyristane_dialogue_0104A
+# text = Ma hewes kerd ê ma henî yildizlî bo .
+# text_en = We wanted ours to be like stars too.
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TextBegin=0|TextEnd=2
+2	hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	3	compound:lvc	_	TextBegin=3|TextEnd=8
+3	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=9|TextEnd=13
+4	ê	ê	ADP	_	_	8	nsubj	_	TextBegin=14|TextEnd=15
+5	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	TextBegin=16|TextEnd=18
+6	henî	henî	ADV	_	_	8	advmod	_	TextBegin=19|TextEnd=23
+7	yildizlî	yildizlî	ADJ	_	Foreign=Yes	8	xcomp	_	TextBegin=24|TextEnd=32
+8	bo	bîyene	VERB	_	Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres	3	ccomp	_	TextBegin=33|TextEnd=35
+9	.	.	PUNCT	_	_	3	punct	_	TextBegin=36|TextEnd=37
+
+# sent_id = Seyristane_dialogue_0105A
+# text = Çike astarî vejînê ya.
+# text_en = When the stars appear
+1	Çike	çike	SCONJ	_	_	3	mark	_	TextBegin=0|TextEnd=4
+2	astarî	astare	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	TextBegin=5|TextEnd=11
+3	vejînê	vejîyayene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=12|TextEnd=18
+4	ya	ya	PART	_	_	3	discourse	_	SpaceAfter=No|TextBegin=19|TextEnd=21
+5	.	.	PUNCT	_	_	3	punct	_	TextBegin=21|TextEnd=21
+
+# sent_id = Seyristane_dialogue_0106A
+# text = Astarî amayî nîştî îta ra .
+# text_en = The stars came and landed on here
+1	Astarî	astare	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	TextBegin=0|TextEnd=6
+2	amayî	ameyene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	TextBegin=7|TextEnd=12
+3	nîştî	nîştene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	TextBegin=13|TextEnd=18
+4	îta	îta	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	TextBegin=19|TextEnd=22
+5	ra	ra	ADP	_	_	4	case	_	TextBegin=23|TextEnd=25
+6	.	.	PUNCT	_	_	2	punct	_	TextBegin=26|TextEnd=27
+
+# sent_id = Seyristane_dialogue_0107A
+# text = Ma zê înû kerd ke ê ma henî vejîyo .
+# text_en = We did it just like that, as if they were appearing
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TextBegin=0|TextEnd=2
+2	zê	zê	ADP	_	_	3	case	_	TextBegin=3|TextEnd=5
+3	înû	înû	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	TextBegin=6|TextEnd=9
+4	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=10|TextEnd=14
+5	ke	ke	SCONJ	_	_	9	mark	_	TextBegin=15|TextEnd=17
+6	ê	ê	ADP	_	_	9	nsubj	_	TextBegin=18|TextEnd=19
+7	ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	6	nmod:poss	_	TextBegin=20|TextEnd=22
+8	henî	henî	ADV	_	_	9	advmod	_	TextBegin=23|TextEnd=27
+9	vejîyo	vejîyayene	VERB	_	Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres	4	ccomp	_	TextBegin=28|TextEnd=34
+10	.	.	PUNCT	_	_	4	punct	_	TextBegin=35|TextEnd=36
+
+# sent_id = Seyristane_dialogue_0108B
+# text = Yanî, çîyo ke îta de virast , to bi xo wast , yanî , nîya bikerê ?
+# text_en = So, what you did here, did you want them to do it like that?
+1	Yanî	yanî	PART	_	_	13	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	13	punct	_	TextBegin=4|TextEnd=5
+3-4	çîyo	_	_	_	_	_	_	_	_
+3	çî	çî	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	TextBegin=6|TextEnd=10
+4	yo	o	ADP	_	Gender=Masc|Number=Sing	3	case	_	TextBegin=6|TextEnd=10
+5	ke	ke	SCONJ	_	_	8	mark	_	TextBegin=11|TextEnd=13
+6	îta	îta	ADV	_	_	8	obl	_	TextBegin=14|TextEnd=17
+7	de	de	ADP	_	_	6	case	_	TextBegin=18|TextEnd=20
+8	virast	viraştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	acl:relcl	_	TextBegin=21|TextEnd=28
+9	,	,	PUNCT	_	_	13	punct	_	TextBegin=21|TextEnd=28
+10	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	TextBegin=29|TextEnd=31
+11	bi	bi	ADP	_	_	12	case	_	TextBegin=32|TextEnd=34
+12	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	13	obl	_	TextBegin=35|TextEnd=37
+13	wast	waştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=38|TextEnd=43
+14	,	,	PUNCT	_	_	13	punct	_	TextBegin=38|TextEnd=43
+15	yanî	yanî	PART	_	_	13	discourse	_	TextBegin=44|TextEnd=49
+16	,	,	PUNCT	_	_	13	punct	_	TextBegin=44|TextEnd=49
+17	nîya	nîya	ADV	_	_	18	advmod	_	TextBegin=50|TextEnd=54
+18	bikerê	kerdene	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	13	ccomp	_	TextBegin=55|TextEnd=62
+19	?	?	PUNCT	_	_	13	punct	_	TextBegin=55|TextEnd=62
+
+# sent_id = Seyristane_dialogue_0109A
+# text = Heya, ba xo wast .
+# text_en = Yes, I wanted it myself
+1	Heya	heya	INTJ	_	_	5	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	5	punct	_	TextBegin=4|TextEnd=5
+3	ba	bi	ADP	_	_	4	case	_	TextBegin=6|TextEnd=8
+4	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	5	obl	_	TextBegin=9|TextEnd=11
+5	wast	waştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=12|TextEnd=16
+6	.	.	PUNCT	_	_	5	punct	_	TextBegin=12|TextEnd=16
+
+# sent_id = Seyristane_dialogue_0110A
+# text = Zor ra nêkerd .
+# text_en = It didn’t do it forcefully
+1	Zor	zor	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	TextBegin=0|TextEnd=3
+2	ra	ra	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
+3	nêkerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	TextBegin=7|TextEnd=13
+4	.	.	PUNCT	_	_	3	punct	_	TextBegin=7|TextEnd=13
+
+# sent_id = Seyristane_dialogue_0111B
+# text = Teyna to bîya ya dormê to de keşî est bî?
+# text_en = Were you alone or was there someone else around you?
+1	Teyna	teyna	ADV	_	_	3	advmod	_	TextBegin=0|TextEnd=5
+2	to	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TextBegin=6|TextEnd=8
+3	bîya	bîyene	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	TextBegin=9|TextEnd=13
+4	ya	ya	SCONJ	_	_	3	cc	_	TextBegin=14|TextEnd=16
+5-6	dormê	_	_	_	_	_	_	_	_
+5	dorm	dorm	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	TextBegin=17|TextEnd=22
+6	ê	ê	ADP	_	_	5	case	_	TextBegin=17|TextEnd=22
+7	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	TextBegin=23|TextEnd=25
+8	de	de	ADP	_	_	7	case	_	TextBegin=26|TextEnd=28
+9	keşî	kes	PRON	_	Gender=Masc|Number=Plur|PronType=Int	10	nsubj	_	TextBegin=29|TextEnd=33
+10	est	est	VERB	_	VerbForm=Fin	3	conj	_	TextBegin=34|TextEnd=37
+11	bî	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	SpaceAfter=No|TextBegin=38|TextEnd=40
+12	?	?	PUNCT	_	_	3	punct	_	TextBegin=40|TextEnd=41
+
+# sent_id = Seyristane_dialogue_112B
+# text = Teyna to?
+# text_en = Only you?
+1	Teyna	teyna	ADV	_	_	2	advmod	_	TextBegin=0|TextEnd=5
+2	to	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No|TextBegin=6|TextEnd=8
+3	?	?	PUNCT	_	_	2	punct	_	TextBegin=8|TextEnd=9
+
+# sent_id = Seyristane_dialogue_0113B
+# text = Înû bi xo virast çarê to ewk kerd?
+# text_en = Did they do what they did on your forehead themselves?
+1	Înû	înû	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	TextBegin=0|TextEnd=3
+2	bi	bi	ADP	_	_	3	case	_	TextBegin=4|TextEnd=6
+3	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	4	obl	_	TextBegin=7|TextEnd=9
+4	virast	viraştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=10|TextEnd=16
+5-6	çarê	_	_	_	_	_	_	_	_
+5	çar	çare	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	TextBegin=17|TextEnd=21
+6	ê	ê	ADP	_	Gender=Masc|Number=Sing	5	case	_	TextBegin=17|TextEnd=21
+7	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	TextBegin=22|TextEnd=24
+8	ewk	ewk	NOUN	_	_	9	obj	_	TextBegin=25|TextEnd=28
+9	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	SpaceAfter=No|TextBegin=29|TextEnd=33
+10	?	?	PUNCT	_	_	4	punct	_	TextBegin=33|TextEnd=34
+
+# sent_id = Seyristane_dialogue_0114B
+# text = Îta de ju perse est a, vano ke îşte ...
+# text_en = There’s a question here. They say, well
+1	Îta	îta	ADV	_	_	5	obl	_	TextBegin=0|TextEnd=3
+2	de	de	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
+3	ju	ju	NUM	_	NumType=Card	4	nummod	_	TextBegin=7|TextEnd=9
+4	perse	pers	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	TextBegin=10|TextEnd=15
+5	est	est	VERB	_	VerbForm=Fin	0	root	_	TextBegin=16|TextEnd=19
+6	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No|TextBegin=20|TextEnd=21
+7	,	,	PUNCT	_	_	5	punct	_	TextBegin=21|TextEnd=22
+8	vano	vatene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	TextBegin=23|TextEnd=27
+9	ke	ke	SCONJ	_	_	8	mark	_	TextBegin=28|TextEnd=30
+10	îşte	îşte	PART	_	_	8	discourse	_	TextBegin=31|TextEnd=35
+11	...	...	PUNCT	_	_	5	punct	_	TextBegin=36|TextEnd=39
+
+# sent_id = Seyristane_dialogue_0115B
+# text = Seba rindekîya xo, yanî însan cêncênîya xo de tayêna beno semt .
+# text_en = For beauty, i.e., one becomes more attractive in youth
+1	Seba	seba	ADP	_	_	2	case	_	TextBegin=0|TextEnd=4
+2-3	rindekîya	_	_	_	_	_	_	_	_
+2	rindekî	rindekîye	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	TextBegin=5|TextEnd=14
+3	ya	ya	ADP	_	Gender=Fem|Number=Sing	2	case	_	TextBegin=5|TextEnd=14
+4	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	2	nmod:poss	_	SpaceAfter=No|TextBegin=15|TextEnd=17
+5	,	,	PUNCT	_	_	13	punct	_	TextBegin=17|TextEnd=18
+6	yanî	yanî	PART	_	_	13	discourse	_	TextBegin=19|TextEnd=23
+7	însan	însan	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	TextBegin=24|TextEnd=29
+8-9	cêncênîya	_	_	_	_	_	_	_	_
+8	cêncênî	cêncênî	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	TextBegin=30|TextEnd=39
+9	ya	a	ADP	_	Gender=Fem|Number=Sing	8	case	_	TextBegin=30|TextEnd=39
+10	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	8	nmod:poss	_	TextBegin=40|TextEnd=42
+11	de	de	ADP	_	_	8	case	_	TextBegin=43|TextEnd=45
+12	tayêna	tayêna	ADV	_	_	13	advmod	_	TextBegin=46|TextEnd=52
+13	beno	bîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=53|TextEnd=57
+14	semt	semt	ADJ	_	Gender=Masc|Number=Sing	13	xcomp	_	TextBegin=58|TextEnd=62
+15	.	.	PUNCT	_	_	13	punct	_	TextBegin=58|TextEnd=62
+
+# sent_id = Seyristane_dialogue_0116B
+# text = Camêrdî falan ke sê kerd .
+# text_en = When young men and such looked over
+1	Camêrdî	camêrd	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	TextBegin=0|TextEnd=7
+2	falan	falan	DET	_	_	1	det	_	TextBegin=8|TextEnd=13
+3	ke	ke	SCONJ	_	_	5	mark	_	TextBegin=14|TextEnd=16
+4	sê	sêr	NOUN	_	Gender=Masc|Number=Sing	5	compound:lvc	_	TextBegin=17|TextEnd=19
+5	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=20|TextEnd=24
+6	.	.	PUNCT	_	_	5	punct	_	TextBegin=25|TextEnd=26
+
+# sent_id = Seyristane_dialogue_0117B
+# text = Çîyê ke dî .
+# text_en = Saw something
+1-2	Çîyê	_	_	_	_	_	_	_	_
+1	Çî	çî	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	TextBegin=0|TextEnd=4
+2	yê	ê	ADP	_	Gender=Masc|Number=Sing	1	case	_	TextBegin=0|TextEnd=4
+3	ke	ke	SCONJ	_	_	4	mark	_	TextBegin=5|TextEnd=7
+4	dî	dîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=8|TextEnd=10
+5	.	.	PUNCT	_	_	4	punct	_	TextBegin=11|TextEnd=12
+
+# sent_id = Seyristane_dialogue_0118B
+# text = Rindekîye ser tayêna rindekî ya, vajî .
+# text_en = Something beautiful becomes even more beautiful, let’s say
+1	Rindekîye	rindekîye	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	TextBegin=0|TextEnd=9
+2	ser	ser	ADP	_	_	1	case	_	TextBegin=10|TextEnd=13
+3	tayêna	tayêna	ADV	_	_	4	advmod	_	TextBegin=14|TextEnd=20
+4	rindekî	rindekîye	NOUN	_	Gender=Fem|Number=Sing	0	root	_	TextBegin=21|TextEnd=28
+5	ya	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	SpaceAfter=No|TextBegin=29|TextEnd=31
+6	,	,	PUNCT	_	_	4	punct	_	TextBegin=31|TextEnd=32
+7	vajî	vatene	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres	4	parataxis	_	TextBegin=33|TextEnd=37
+8	.	.	PUNCT	_	_	4	punct	_	TextBegin=38|TextEnd=39
+
+# sent_id = Seyristane_dialogue_0119A
+# text = Ma nika uza kut, bîya , bon rindeke ?
+# text_en = Because I’ve tattooed [myself] there, I became beautiful?
+1	Ma	ma	INTJ	_	_	4	discourse	_	TextBegin=0|TextEnd=2
+2	nika	nika	ADV	_	_	4	advmod	_	TextBegin=3|TextEnd=7
+3	uza	uza	ADV	_	_	4	advmod	_	TextBegin=8|TextEnd=11
+4	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=12|TextEnd=15
+5	,	,	PUNCT	_	_	4	punct	_	TextBegin=15|TextEnd=16
+6	bîya	bîyene	VERB	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	reparandum	_	TextBegin=17|TextEnd=22
+7	,	,	PUNCT	_	_	4	punct	_	TextBegin=17|TextEnd=22
+8	bon	bîyene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	conj	_	TextBegin=23|TextEnd=26
+9	rindeke	rindeke	ADJ	_	Gender=Fem|Number=Sing	8	xcomp	_	TextBegin=27|TextEnd=35
+10	?	?	PUNCT	_	_	4	punct	_	TextBegin=36|TextEnd=37
+
+# sent_id = Seyristane_dialogue_0120B
+# text = Nêzan pers kon .
+# text_en = I don’t know, I'm asking
+1	Nêzan	zanayene	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	TextBegin=0|TextEnd=5
+2	pers	pers	NOUN	_	Gender=Masc|Number=Sing	3	compound:lvc	_	TextBegin=6|TextEnd=10
+3	kon	kerdene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	1	conj	_	TextBegin=11|TextEnd=14
+4	.	.	PUNCT	_	_	1	punct	_	TextBegin=15|TextEnd=16
+
+# sent_id = Seyristane_dialogue_0121B
+# text = Îta de perse est a, to ra pers kon .
+# text_en = There’s a question here I’m asking you
+1	Îta	îta	ADV	_	_	4	obl	_	TextBegin=0|TextEnd=3
+2	de	de	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
+3	perse	pers	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	TextBegin=7|TextEnd=12
+4	est	est	VERB	_	VerbForm=Fin	0	root	_	TextBegin=13|TextEnd=16
+5	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	SpaceAfter=No|TextBegin=17|TextEnd=18
+6	,	,	PUNCT	_	_	4	punct	_	TextBegin=18|TextEnd=19
+7	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	obl	_	TextBegin=20|TextEnd=22
+8	ra	ra	ADP	_	_	7	case	_	TextBegin=23|TextEnd=25
+9	pers	pers	NOUN	_	Gender=Masc|Number=Sing	10	compound:lvc	_	TextBegin=26|TextEnd=30
+10	kon	kerdene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	conj	_	TextBegin=31|TextEnd=34
+11	.	.	PUNCT	_	_	4	punct	_	TextBegin=35|TextEnd=36
+
+# sent_id = Seyristane_dialogue_0122A
+# text = Ma hewes kerd îşte ha .
+# text_en = We just wanted it
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TextBegin=0|TextEnd=2
+2	hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	3	compound:lvc	_	TextBegin=3|TextEnd=8
+3	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=9|TextEnd=13
+4	îşte	îşte	PART	_	_	3	discourse	_	TextBegin=14|TextEnd=18
+5	ha	ha	INTJ	_	_	3	discourse	_	TextBegin=19|TextEnd=21
+6	.	.	PUNCT	_	_	3	punct	_	TextBegin=22|TextEnd=23
+
+# sent_id = Seyristane_dialogue_0123A
+# text = Ma hewes kerd xo rê kut .
+# text_en = We wanted it, [so] we tattooed ourselves
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TextBegin=0|TextEnd=2
+2	hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	3	compound:lvc	_	TextBegin=3|TextEnd=8
+3	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=9|TextEnd=13
+4	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	6	obl	_	TextBegin=14|TextEnd=16
+5	rê	rê	ADP	_	_	4	case	_	TextBegin=17|TextEnd=19
+6	kut	kutene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	TextBegin=20|TextEnd=23
+7	.	.	PUNCT	_	_	3	punct	_	TextBegin=24|TextEnd=25
+
+# sent_id = Seyristane_dialogue_0124A
+# text = Ma xo rê hewes kerd .
+# text_en = We wanted it (for ourselves)
+1	Ma	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TextBegin=0|TextEnd=2
+2	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	5	obl	_	TextBegin=3|TextEnd=5
+3	rê	rê	ADP	_	_	2	case	_	TextBegin=6|TextEnd=8
+4	hewes	hewes	NOUN	_	Gender=Masc|Number=Sing	5	compound:lvc	_	TextBegin=9|TextEnd=14
+5	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=15|TextEnd=19
+6	.	.	PUNCT	_	_	5	punct	_	TextBegin=20|TextEnd=21
+
+# sent_id = Seyristane_dialogue_0125A
+# text = Sê ke , sê ke .
+# text_en = Look, look
+1	Sê	sêr	NOUN	_	Gender=Masc|Number=Sing	2	compound:lvc	_	TextBegin=0|TextEnd=2
+2	ke	kerdene	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	TextBegin=3|TextEnd=5
+3	,	,	PUNCT	_	_	2	punct	_	TextBegin=5|TextEnd=6
+4	sê	sêr	NOUN	_	Gender=Masc|Number=Sing	5	compound:lvc	_	TextBegin=7|TextEnd=9
+5	ke	kerdene	VERB	_	Mood=Imp|Number=Sing|Person=2	2	conj	_	TextBegin=10|TextEnd=12
+6	.	.	PUNCT	_	_	2	punct	_	TextBegin=13|TextEnd=14
+
+# sent_id = Seyristane_dialogue_126B
+# text = Yanî, to ke ê kerd , qet dua falan dî ?
+# text_en = So when you did them, did you pray or anything (lit. saw prayer)?
+1	Yanî	yanî	PART	_	_	6	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	6	punct	_	TextBegin=4|TextEnd=5
+3	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	TextBegin=6|TextEnd=8
+4	ke	ke	SCONJ	_	_	6	mark	_	TextBegin=9|TextEnd=11
+5	ê	ê	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	obj	_	TextBegin=12|TextEnd=13
+6	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=14|TextEnd=19
+7	,	,	PUNCT	_	_	6	punct	_	TextBegin=14|TextEnd=19
+8	qet	qet	ADV	_	_	11	advmod	_	TextBegin=20|TextEnd=23
+9	dua	dua	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	TextBegin=24|TextEnd=27
+10	falan	falan	PART	_	_	11	discourse	_	TextBegin=28|TextEnd=33
+11	dî	dîyene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	TextBegin=34|TextEnd=37
+12	?	?	PUNCT	_	_	6	punct	_	TextBegin=34|TextEnd=37
+
+# sent_id = Seyristane_dialogue_127B
+# text = Ya xo rê henî ebe çêfê xû ya virastê?
+# text_en = Or did you just do it out of your own desire?
+1	Ya	ya	CCONJ	_	_	10	discourse	_	TextBegin=0|TextEnd=2
+2	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	10	obl	_	TextBegin=3|TextEnd=5
+3	rê	rê	ADP	_	_	2	case	_	TextBegin=6|TextEnd=8
+4	henî	henî	ADV	_	_	10	advmod	_	TextBegin=9|TextEnd=13
+5	ebe	bi	ADP	_	_	6	case	_	TextBegin=14|TextEnd=17
+6-7	çêfê	_	_	_	_	_	_	_	_
+6	çêf	çêf	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	TextBegin=18|TextEnd=22
+7	ê	ê	ADP	_	Gender=Masc|Number=Sing	6	case	_	TextBegin=18|TextEnd=22
+8	xû	xo	PRON	_	PronType=Prs|Reflex=Yes	6	nmod:poss	_	TextBegin=23|TextEnd=25
+9	ya	ra	ADP	_	_	6	case	_	TextBegin=26|TextEnd=28
+10	virastê	viraştene	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=29|TextEnd=36
+11	?	?	PUNCT	_	_	10	punct	_	TextBegin=36|TextEnd=37
+
+# sent_id = Seyristane_dialogue_128A
+# text = Veng danîm Heqî, bîsmila , ya Xizir , wayîr .
+# text_en = We invoke[d] God, "Bismillah, oh Khidr, oh Lord"
+1	Veng	veng	NOUN	_	Gender=Masc|Number=Sing	2	compound:lvc	_	TextBegin=0|TextEnd=4
+2	danîm	dayene	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	TextBegin=5|TextEnd=10
+3	Heqî	Heq	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No|TextBegin=11|TextEnd=15
+4	,	,	PUNCT	_	_	2	punct	_	TextBegin=15|TextEnd=16
+5	bîsmila	bîsmila	INTJ	_	_	2	vocative	_	TextBegin=17|TextEnd=25
+6	,	,	PUNCT	_	_	2	punct	_	TextBegin=17|TextEnd=25
+7	ya	ya	PART	_	_	8	case	_	TextBegin=26|TextEnd=28
+8	Xizir	Xizir	PROPN	_	Gender=Masc|Number=Sing	2	vocative	_	TextBegin=29|TextEnd=35
+9	,	,	PUNCT	_	_	2	punct	_	TextBegin=29|TextEnd=35
+10	wayîr	wayîr	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	TextBegin=36|TextEnd=41
+11	.	.	PUNCT	_	_	2	punct	_	TextBegin=42|TextEnd=43
+
+# sent_id = Seyristane_dialogue_129A
+# text = Duayî vêrenê, nasil vêrenê .
+# text_en = Prayers are said (lit. pass), and how they are said
+1	Duayî	dua	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	TextBegin=0|TextEnd=5
+2	vêrenê	vêrdene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No|TextBegin=6|TextEnd=12
+3	,	,	PUNCT	_	_	2	punct	_	TextBegin=12|TextEnd=13
+4	nasil	nasil	ADV	_	Foreign=Yes	5	advmod	_	TextBegin=14|TextEnd=19
+5	vêrenê	vêrdene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	conj	_	TextBegin=20|TextEnd=26
+6	.	.	PUNCT	_	_	2	punct	_	TextBegin=27|TextEnd=28
+
+# sent_id = Seyristane_dialogue_130A
+# text = Însan însanî kunê .
+# text_en = One person tattoos another
+1	Însan	însan	NOUN	_	Number=Plur	3	nsubj	_	TextBegin=0|TextEnd=5
+2	însanî	însan	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	TextBegin=6|TextEnd=12
+3	kunê	kutene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=13|TextEnd=17
+4	.	.	PUNCT	_	_	3	punct	_	TextBegin=18|TextEnd=19
+
+# sent_id = Seyristane_dialogue_131A
+# text = Ma însan terseno da!
+# text_en = That’s scary! (lit. one is scared)
+1	Ma	ma	INTJ	_	_	3	discourse	_	TextBegin=0|TextEnd=2
+2	însan	însan	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	TextBegin=3|TextEnd=8
+3	terseno	tersayene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	TextBegin=9|TextEnd=16
+4	da	da	PART	_	_	3	discourse	_	SpaceAfter=No|TextBegin=17|TextEnd=19
+5	!	!	PUNCT	_	_	3	punct	_	TextBegin=19|TextEnd=20
+
+# sent_id = Seyristane_dialogue_132A
+# text = Dercênû cênê yenê da!
+# text_en = They actually use (lit. take and come) needles!
+1	Dercênû	dercîne	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	TextBegin=0|TextEnd=7
+2	cênê	guretene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	TextBegin=8|TextEnd=12
+3	yenê	ameyene	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	conj	_	TextBegin=13|TextEnd=17
+4	da	da	PART	_	_	2	discourse	_	SpaceAfter=No|TextBegin=18|TextEnd=20
+5	!	!	PUNCT	_	_	2	punct	_	TextBegin=20|TextEnd=21
+
+# sent_id = Seyristane_dialogue_133B
+# text = Yanî, to ke virast , zerê to de qe areşîya ?
+# text_en = So, when you did it, did you feel internally relieved?
+1	Yanî	yanî	PART	_	_	12	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
+2	,	,	PUNCT	_	_	12	punct	_	TextBegin=4|TextEnd=5
+3	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	TextBegin=6|TextEnd=8
+4	ke	ke	SCONJ	_	_	5	mark	_	TextBegin=9|TextEnd=11
+5	virast	viraştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	12	advcl	_	TextBegin=12|TextEnd=19
+6	,	,	PUNCT	_	_	12	punct	_	TextBegin=12|TextEnd=19
+7-8	zerê	_	_	_	_	_	_	_	_
+7	zer	zere	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	TextBegin=20|TextEnd=24
+8	ê	ê	ADP	_	Gender=Masc|Number=Sing	7	case	_	TextBegin=20|TextEnd=24
+9	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	nmod:poss	_	TextBegin=25|TextEnd=27
+10	de	de	ADP	_	_	7	case	_	TextBegin=28|TextEnd=30
+11	qe	qet	ADV	_	_	12	advmod	_	TextBegin=31|TextEnd=33
+12	areşîya	areşîyayene	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	TextBegin=34|TextEnd=42
+13	?	?	PUNCT	_	_	12	punct	_	TextBegin=34|TextEnd=42
+
+# sent_id = Seyristane_dialogue_134A
+# text = Areşîne, tabî .
+# text_en = Of course I was relieved
+1	Areşîne	areşîyayene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=0|TextEnd=7
+2	,	,	PUNCT	_	_	1	punct	_	TextBegin=7|TextEnd=8
+3	tabî	tabî	ADV	_	_	1	discourse	_	TextBegin=9|TextEnd=13
+4	.	.	PUNCT	_	_	1	punct	_	TextBegin=14|TextEnd=15
+
+# sent_id = Seyristane_dialogue_135A
+# text = Çêf ken ke emin kerd, mi çarê xo kuto .
+# text_en = I was pleased that I tattooed my forehead
+1	Çêf	çêf	NOUN	_	Gender=Masc|Number=Sing	2	compound:lvc	_	TextBegin=0|TextEnd=3
+2	ken	kerdene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	TextBegin=4|TextEnd=7
+3	ke	ke	SCONJ	_	_	5	mark	_	TextBegin=8|TextEnd=10
+4	emin	emin	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	TextBegin=11|TextEnd=15
+5	kerd	kerdene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	ccomp	_	SpaceAfter=No|TextBegin=16|TextEnd=20
+6	,	,	PUNCT	_	_	2	punct	_	TextBegin=20|TextEnd=21
+7	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	TextBegin=22|TextEnd=24
+8-9	çarê	_	_	_	_	_	_	_	_
+8	çar	çare	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	TextBegin=25|TextEnd=29
+9	ê	ê	ADP	_	Gender=Masc|Number=Sing	8	case	_	TextBegin=25|TextEnd=29
+10	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	8	nmod:poss	_	TextBegin=30|TextEnd=32
+11	kuto	kutene	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	TextBegin=33|TextEnd=37
+12	.	.	PUNCT	_	_	2	punct	_	TextBegin=33|TextEnd=37
+
+# sent_id = Seyristane_dialogue_136A
+# text = Îta de kes çîn o .
+# text_en = There’s no one here
+1	Îta	îta	ADV	_	_	4	obl	_	TextBegin=0|TextEnd=3
+2	de	de	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
+3	kes	kes	PRON	_	PronType=Ind	4	nsubj	_	TextBegin=7|TextEnd=10
+4	çîn	çîn	VERB	_	Polarity=Neg	0	root	_	TextBegin=11|TextEnd=14
+5	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	TextBegin=15|TextEnd=16
+6	.	.	PUNCT	_	_	4	punct	_	TextBegin=17|TextEnd=18
+
+# sent_id = Seyristane_dialogue_137B
+# text = Teyna to bîya?
+# text_en = It was just you?
+1	Teyna	teyna	ADV	_	_	3	advmod	_	TextBegin=0|TextEnd=5
+2	to	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TextBegin=6|TextEnd=8
+3	bîya	bîyene	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	SpaceAfter=No|TextBegin=9|TextEnd=13
+4	?	?	PUNCT	_	_	3	punct	_	TextBegin=13|TextEnd=14
+
+# sent_id = Seyristane_dialogue_138A
+# text = Ju ez .
+# text_en = Just me
+1	Ju	ju	ADV	_	_	2	advmod	_	TextBegin=0|TextEnd=2
+2	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	TextBegin=3|TextEnd=5
+3	.	.	PUNCT	_	_	2	punct	_	TextBegin=3|TextEnd=5
+
+# sent_id = Seyristane_dialogue_139B
+# text = Îta sarekutene est ê, cînî?
+# text_en = Are there tattoos here, women?
+1	Îta	îta	ADV	_	_	3	obl	_	TextBegin=0|TextEnd=3
+2	sarekutene	sarekutene	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	TextBegin=4|TextEnd=14
+3	est	est	VERB	_	VerbForm=Fin	0	root	_	TextBegin=15|TextEnd=18
+4	ê	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	SpaceAfter=No|TextBegin=19|TextEnd=20
+5	,	,	PUNCT	_	_	3	punct	_	TextBegin=20|TextEnd=21
+6-7	cînî?	_	_	_	_	_	_	_	_
+6	cînî	cînî	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	TextBegin=22|TextEnd=27
+7	?	?	PUNCT	_	_	3	punct	_	TextBegin=28|TextEnd=29
+
+# sent_id = Seyristane_dialogue_140A
+# text = Îta çîn ê, henî ?
+# text_en = There are none here, right?
+1	Îta	îta	ADV	_	_	2	advmod	_	TextBegin=0|TextEnd=3
+2	çîn	çîn	VERB	_	Polarity=Neg	0	root	_	TextBegin=4|TextEnd=7
+3	ê	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	aux	_	SpaceAfter=No|TextBegin=8|TextEnd=9
+4	,	,	PUNCT	_	_	2	punct	_	TextBegin=9|TextEnd=10
+5	henî	henî	ADV	_	_	2	discourse	_	TextBegin=11|TextEnd=16
+6	?	?	PUNCT	_	_	2	punct	_	TextBegin=11|TextEnd=16
