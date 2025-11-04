@@ -393,3 +393,4 @@
 2	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TextBegin=3|TextEnd=5
 3	mando	mendene	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	TextBegin=6|TextEnd=11
 4	.	.	PUNCT	_	_	3	punct	_	TextBegin=12|TextEnd=13
+
