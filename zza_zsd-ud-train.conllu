@@ -902,7 +902,7 @@
 # text_en = So when you did it, what did you feel, for example?
 1	Yanî	yanî	PART	_	_	5	discourse	_	SpaceAfter=No|TextBegin=0|TextEnd=4
 2	,	,	PUNCT	_	_	1	punct	_	TextBegin=4|TextEnd=5
-3	to	to	PRON	_	PronType=Prs|Case=Acc|Number=Sing|Person=2	5	nsubj	_	TextBegin=6|TextEnd=8
+3	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	TextBegin=6|TextEnd=8
 4	ke	ke	SCONJ	_	_	5	mark	_	TextBegin=9|TextEnd=11
 5	virast	ke	VERB	_	_	9	advcl	_	TextBegin=12|TextEnd=18
 6	mesela	mesela	ADV	_	_	5	advmod	_	TextBegin=19|TextEnd=26
@@ -912,7 +912,7 @@
 10-11	zerê	_	_	_	_	_	_	_	_
 10	zer	zere	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	TextBegin=34|TextEnd=38
 11	ê	ê	ADP	_	Gender=Masc|Number=Sing	10	case	_	TextBegin=34|TextEnd=38
-12	to	to	PRON	_	PronType=Prs|Case=Acc|Number=Sing|Person=2	10	nmod:poss	_	TextBegin=39|TextEnd=42
+12	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	TextBegin=39|TextEnd=42
 13	?	?	PUNCT	_	_	9	punct	_	TextBegin=43|TextEnd=44
 
 # sent_id = Seyristane_dialogue_085A
@@ -1012,7 +1012,7 @@
 5	doman	doman	NOUN	_	Number=Plur	8	obj	_	TextBegin=18|TextEnd=24
 6	ê	ê	ADP	_	Number=Plur	5	case	_	TextBegin=18|TextEnd=24
 7	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	5	nmod:poss	_	TextBegin=25|TextEnd=27
-8	est	est	VERB	_	VerbForm=Fin|Mood=Ind	1	conj	_	TextBegin=28|TextEnd=31
+8	est	est	VERB	_	Mood=Ind|VerbForm=Fin	1	conj	_	TextBegin=28|TextEnd=31
 9	ê	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	aux	_	TextBegin=32|TextEnd=33
 10	.	.	PUNCT	_	_	1	punct	_	TextBegin=34|TextEnd=35
 
@@ -1052,7 +1052,7 @@
 2	man	mana	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	TextBegin=3|TextEnd=7
 3	ê	ê	ADP	_	Gender=Masc|Number=Sing	2	case	_	TextBegin=3|TextEnd=7
 4	xo	xo	PRON	_	PronType=Prs	2	nmod:poss	_	TextBegin=8|TextEnd=10
-5	est	est	VERB	_	VerbForm=Fin|Mood=Ind	0	root	_	TextBegin=11|TextEnd=14
+5	est	est	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	TextBegin=11|TextEnd=14
 6	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No|TextBegin=15|TextEnd=16
 7	?	?	PUNCT	_	_	5	punct	_	TextBegin=16|TextEnd=17
 
@@ -1080,7 +1080,7 @@
 6	ê	ê	ADP	_	_	5	case	_	TextBegin=17|TextEnd=23
 7	Alî	Alî	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod:poss	_	TextBegin=24|TextEnd=27
 8	dano	dayene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	xcomp	_	TextBegin=28|TextEnd=32
-9	pi	pi	PRON	_	PronType=Prs|Person=3	8	compound:prt	_	TextBegin=33|TextEnd=37
+9	pi	pi	PRON	_	Person=3|PronType=Prs	8	compound:prt	_	TextBegin=33|TextEnd=37
 10	ro	ro	ADP	_	_	9	case	_	TextBegin=33|TextEnd=37
 11	.	.	PUNCT	_	_	1	punct	_	TextBegin=38|TextEnd=39
 
@@ -1124,7 +1124,7 @@
 2	yildiz	yildiz	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	5	nsubj	_	TextBegin=3|TextEnd=9
 3	hewa	hewa	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	TextBegin=10|TextEnd=14
 4	ra	ra	ADP	_	_	3	case	_	TextBegin=15|TextEnd=17
-5	est	est	VERB	_	VerbForm=Fin|Mood=Ind	0	root	_	TextBegin=18|TextEnd=21
+5	est	est	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	TextBegin=18|TextEnd=21
 6	ê	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	TextBegin=22|TextEnd=23
 7	.	.	PUNCT	_	_	5	punct	_	TextBegin=24|TextEnd=25
 
@@ -1229,7 +1229,7 @@
 7	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	TextBegin=23|TextEnd=25
 8	de	de	ADP	_	_	7	case	_	TextBegin=26|TextEnd=28
 9	keşî	kes	PRON	_	Gender=Masc|Number=Plur|PronType=Int	10	nsubj	_	TextBegin=29|TextEnd=33
-10	est	est	VERB	_	VerbForm=Fin|Mood=Ind	3	conj	_	TextBegin=34|TextEnd=37
+10	est	est	VERB	_	Mood=Ind|VerbForm=Fin	3	conj	_	TextBegin=34|TextEnd=37
 11	bî	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	SpaceAfter=No|TextBegin=38|TextEnd=40
 12	?	?	PUNCT	_	_	3	punct	_	TextBegin=40|TextEnd=41
 
@@ -1262,7 +1262,7 @@
 2	de	de	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
 3	ju	ju	NUM	_	NumType=Card	4	nummod	_	TextBegin=7|TextEnd=9
 4	perse	pers	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	TextBegin=10|TextEnd=15
-5	est	est	VERB	_	VerbForm=Fin|Mood=Ind	0	root	_	TextBegin=16|TextEnd=19
+5	est	est	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	TextBegin=16|TextEnd=19
 6	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	SpaceAfter=No|TextBegin=20|TextEnd=21
 7	,	,	PUNCT	_	_	5	punct	_	TextBegin=21|TextEnd=22
 8	vano	vatene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	TextBegin=23|TextEnd=27
@@ -1351,7 +1351,7 @@
 1	Îta	îta	ADV	_	_	4	obl	_	TextBegin=0|TextEnd=3
 2	de	de	ADP	_	_	1	case	_	TextBegin=4|TextEnd=6
 3	perse	pers	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	TextBegin=7|TextEnd=12
-4	est	est	VERB	_	VerbForm=Fin|Mood=Ind	0	root	_	TextBegin=13|TextEnd=16
+4	est	est	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	TextBegin=13|TextEnd=16
 5	a	bîyene	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	SpaceAfter=No|TextBegin=17|TextEnd=18
 6	,	,	PUNCT	_	_	4	punct	_	TextBegin=18|TextEnd=19
 7	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	obl	_	TextBegin=20|TextEnd=22
@@ -1557,7 +1557,7 @@
 # text_en = Are there tattoos here, women?
 1	Îta	îta	ADV	_	_	3	obl	_	TextBegin=0|TextEnd=3
 2	sarekutene	sarekutene	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	TextBegin=4|TextEnd=14
-3	est	est	VERB	_	VerbForm=Fin|Mood=Ind	0	root	_	TextBegin=15|TextEnd=18
+3	est	est	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	TextBegin=15|TextEnd=18
 4	ê	bîyene	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	SpaceAfter=No|TextBegin=19|TextEnd=20
 5	,	,	PUNCT	_	_	3	punct	_	TextBegin=20|TextEnd=21
 6-7	cînî?	_	_	_	_	_	_	_	_

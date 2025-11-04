@@ -76,7 +76,7 @@
 4	dikan	dikan	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	TextBegin=9|TextEnd=15
 5	ê	ê	ADP	_	Gender=Masc|Number=Sing	4	case	_	TextBegin=9|TextEnd=15
 6	xo	xo	PRON	_	PronType=Prs|Reflex=Yes	4	nmod:poss	_	TextBegin=16|TextEnd=18
-7	est	est	VERB	_	VerbForm=Fin|Mood=Ind	0	root	_	TextBegin=19|TextEnd=22
+7	est	est	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	TextBegin=19|TextEnd=22
 8	o	bîyene	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|TextBegin=23|TextEnd=24
 9	,	,	PUNCT	_	_	7	punct	_	TextBegin=24|TextEnd=25
 10-11	çîyo	_	_	_	_	_	_	_	_
@@ -272,7 +272,7 @@
 4	ke	ke	SCONJ	_	_	3	mark	_	TextBegin=9|TextEnd=14
 5	...	...	PUNCT	_	_	9	punct	_	TextBegin=9|TextEnd=14
 6	çend	çend	DET	_	PronType=Int	7	det	_	TextBegin=15|TextEnd=19
-7	keşî	kes	PRON	_	PronType=Int|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	TextBegin=20|TextEnd=24
+7	keşî	kes	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	9	obl	_	TextBegin=20|TextEnd=24
 8	rê	rê	ADP	_	_	7	case	_	TextBegin=25|TextEnd=27
 9	viraşt	viraştene	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	TextBegin=28|TextEnd=34
 10	to	to	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	TextBegin=35|TextEnd=38
