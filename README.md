@@ -27,7 +27,7 @@ We thank the speaker(s) from Dêrsim who participated in the recordings, and the
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.17
+Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
@@ -39,6 +39,6 @@ Features: manual native
 Relations: manual native
 Contributors: Dogan, Mahîr; Talamo, Luigi; Vaz, Helena; Verkerk, Annemarie
 Contributing: here
-Contact: luigi.talamo@uni-saarland.de, mahir.dogan@uni-bamberg.de
+Contact: mahir.dogan@uni-bamberg.de
 ===============================================================================
 </pre>
