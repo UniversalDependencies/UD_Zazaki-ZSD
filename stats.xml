@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>200</sentences><tokens>1371</tokens><words>1441</words><fused>70</fused></total>
+    <train><sentences>138</sentences><tokens>932</tokens><words>978</words><fused>46</fused></train>
+    <dev><sentences>30</sentences><tokens>207</tokens><words>213</words><fused>6</fused></dev>
+    <test><sentences>32</sentences><tokens>232</tokens><words>250</words><fused>18</fused></test>
+  </size>
+  <lemmas unique="244" /><!-- ., ,, ?, ê, bîyene, ma, kerdene, de, xo, kutene, ra, ke, to, vatene, viraştene -->
+  <forms unique="371" /><!-- ., ,, ?, ê, ma, de, xo, ra, to, ke, o, ya, yanî, a, kerd -->
+  <fusions unique="44" /><!-- çarê, Namê, piro, rüyê, çîyê, Hatê, Virastena, destê, dustê, hetê, serê, zerê, Îyê, çîyo, Herdê -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">17</tag><!-- nîyanên, kan, berz, hewl, kanî, kewe, raver, ravê, rind, rindeke -->
+    <tag name="ADP">186</tag><!-- ê, de, ra, rê, bi, a, o, ro, pê, seba -->
+    <tag name="ADV">92</tag><!-- nîya, kî, îta, henî, çayê, nika, teyna, ju, kotî, mesela -->
+    <tag name="AUX">40</tag><!-- bîyene -->
+    <tag name="CCONJ">6</tag><!-- ya, û -->
+    <tag name="DET">11</tag><!-- na, no, o, falan, teba, çand, çend, ê -->
+    <tag name="INTJ">27</tag><!-- ma, ha, heya, he, ya, bîsmila, e, hahû, nê, pekî -->
+    <tag name="NOUN">216</tag><!-- hewes, elekçî, pers, tene, çare, dîna, çî, dercîne, emin, mekteb -->
+    <tag name="NUM">14</tag><!-- 38, hîrê, di, ju, 14 -->
+    <tag name="PART">49</tag><!-- yanî, îşte, ya, arê, hanî, hes, da, falan, kî, mesela -->
+    <tag name="PRON">196</tag><!-- xo, ma, to, sima, çi, ti, ez, mi, înû, ci -->
+    <tag name="PROPN">7</tag><!-- Xozat, Alî, Heq, Ovacix, Tuncelî, Xizir -->
+    <tag name="PUNCT">312</tag><!-- ., ,, ?, ", ..., !, {, } -->
+    <tag name="SCONJ">25</tag><!-- ke, seke, ya, çike -->
+    <tag name="VERB">241</tag><!-- kerdene, kutene, vatene, viraştene, ameyene, bîyene, dayene, est, çîn, guretene -->
+    <tag name="X">2</tag><!-- ne, olacax -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="30">
+    <feat name="Animacy" value="Anim" upos="PRON">2</feat><!-- dey -->
+    <feat name="Aspect" value="Imp" upos="VERB">25</feat><!-- vatêne, virastêne, gurtêne, kutêne, amêne, dêne, kerdêne, nêkerdêne, dîyêne, nêvirastêne -->
+    <feat name="Aspect" value="Perf" upos="VERB">16</feat><!-- kuto, kutê, Zewecîya, kerdo, merdê, vatê, virastê -->
+    <feat name="Case" value="Acc" upos="NOUN,PRON,PROPN">77</feat><!-- to, mi, ci, pi, Kamî, elekçîyo, înû, Cinîyû, Heqî, dey -->
+    <feat name="Case" value="Nom" upos="ADP,DET,NOUN,PRON">24</feat><!-- ez, Ti, o, astarî, Î, ê, To, domanî, no, tu -->
+    <feat name="Definite" value="Ind" upos="NOUN">3</feat><!-- emin, ok, çîyê -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADV,NOUN,VERB,X">8</feat><!-- damîş, hepsî, nasil, ne, olacax, yildiz, yildizlî, ölmîş -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,AUX,DET,NOUN,PRON,VERB">99</feat><!-- a, na, dîna, ya, wa, Cinîyû, Virasten, cînî, dewlete, gonî -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">313</feat><!-- ê, o, kerd, hewes, kut, çar, kuto, virast, yo, yê -->
+    <feat name="Mood" value="Imp" upos="VERB">13</feat><!-- vaze, ke, Bîya, bikuyê, de, vinde -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">236</feat><!-- kerd, o, kut, est, bî, danê, virast, a, kuto, ê -->
+    <feat name="Mood" value="Sub" upos="VERB">17</feat><!-- vajî, mevajî, bikerê, bikuyê, bimuso, bo, kero, mekerê, mekerî, mekuyî -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,AUX,DET,NOUN,PRON,VERB">178</feat><!-- ma, ê, sima, danê, tenî, kenê, yê, amayî, elekçî, kutê -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,VERB">481</feat><!-- ê, to, o, kerd, hewes, kut, a, çar, ez, kuto -->
+    <feat name="NumType" value="Card" upos="NUM">7</feat><!-- di, hîrê, ju -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">84</feat><!-- ma, ez, mi, kon, amo, vajî, bîme, mevajî, vêsneme, zewejîyo -->
+    <feat name="Person" value="2" upos="PRON,VERB">63</feat><!-- to, sima, vaze, Ti, ama, bîya, ke, areşîya, bikuyê, de -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">206</feat><!-- kerd, o, kut, ê, danê, virast, a, bî, ci, kenê -->
+    <feat name="Polarity" value="Neg" upos="VERB">22</feat><!-- çîn, mevajî, nêkerdêne, çînê, Nêzan, mekerê, mekerî, mekuyî, mevirajî, nêkenê -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">19</feat><!-- na, no, o, Nê, ê, naye -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">6</feat><!-- kes, Qe, falan, jüyê, taba -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">40</feat><!-- kotî, ça, çi, çik, Kamî, se, key, keşî, çito, Kam -->
+    <feat name="PronType" value="Prs" upos="PRON">156</feat><!-- ma, xo, to, sima, ez, mi, ci, pi, Ti, înû -->
+    <feat name="PronType" value="Rcp" upos="PRON">4</feat><!-- jubîn, jubînan -->
+    <feat name="Reflex" value="Yes" upos="PRON">35</feat><!-- xo, xû -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">130</feat><!-- kerd, kut, bî, kuto, virast, amayî, kutê, vatêne, virastêne, ama -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">119</feat><!-- o, danê, a, ê, kenê, kon, wa, yenê, beno, vajî -->
+    <feat name="VerbForm" value="Fin" upos="VERB">10</feat><!-- est -->
+    <feat name="VerbForm" value="Part" upos="VERB">2</feat><!-- kuta -->
+    <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- virajînê -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="32">
+    <dep name="acl:relcl">4</dep>
+    <dep name="advcl">8</dep>
+    <dep name="advmod">77</dep>
+    <dep name="amod">9</dep>
+    <dep name="appos">2</dep>
+    <dep name="aux">21</dep>
+    <dep name="case">173</dep>
+    <dep name="cc">6</dep>
+    <dep name="ccomp">10</dep>
+    <dep name="compound:lvc">28</dep>
+    <dep name="compound:prt">16</dep>
+    <dep name="compound:redup">2</dep>
+    <dep name="conj">52</dep>
+    <dep name="cop">19</dep>
+    <dep name="det">11</dep>
+    <dep name="discourse">74</dep>
+    <dep name="dislocated">6</dep>
+    <dep name="flat:foreign">1</dep>
+    <dep name="iobj">2</dep>
+    <dep name="mark">24</dep>
+    <dep name="nmod">6</dep>
+    <dep name="nmod:poss">61</dep>
+    <dep name="nsubj">108</dep>
+    <dep name="nummod">10</dep>
+    <dep name="obj">57</dep>
+    <dep name="obl">114</dep>
+    <dep name="parataxis">7</dep>
+    <dep name="punct">312</dep>
+    <dep name="reparandum">4</dep>
+    <dep name="root">200</dep>
+    <dep name="vocative">5</dep>
+    <dep name="xcomp">12</dep>
+  </deps>
+</treebank>
