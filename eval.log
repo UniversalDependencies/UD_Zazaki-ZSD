@@ -1,0 +1,43 @@
+Running the following version of UD tools:
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 5 17:01:41 2026 +0200
+Evaluating the following revision of UD_Zazaki-ZSD:
+commit bac5bd891187b4ba08da8ef0b5a6fe3c2fcc17c4
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 10:03:11 2026 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'zza_zsd'
+Language code (from CoNLL-U file name) = 'zza'
+Found the following data files: zza_zsd-ud-dev.conllu, zza_zsd-ud-test.conllu, zza_zsd-ud-train.conllu
+Size: counted 1441 of 1441 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.73067463403477.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 810 out of 1441 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 29 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang zza --max-err=10 UD_Zazaki-ZSD/zza_zsd-ud-dev.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang zza --max-err=10 UD_Zazaki-ZSD/zza_zsd-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang zza --max-err=10 UD_Zazaki-ZSD/zza_zsd-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.0528879936046631) = 0.0195881457795049
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
+(weight=0.111111111111111) * (score{udeprels}=0.783783783783784) = 0.0870870870870871
+(TOTAL score=0.44038619873442) * (availability=1) * (validity=1) = 0.44038619873442
+STARS = 2
+UD_Zazaki-ZSD	0.44038619873442	2
